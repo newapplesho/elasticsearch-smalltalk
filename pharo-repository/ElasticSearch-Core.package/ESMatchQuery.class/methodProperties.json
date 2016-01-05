@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"boolean:" : "PaulDeBruicker 4/26/2013 06:48",
+		"cutoffFrequency:" : "PaulDeBruicker 4/26/2013 06:48",
+		"fuzziness:" : "PaulDeBruicker 4/26/2013 08:07",
+		"jsonStringContents" : "PaulDeBruicker 4/26/2013 09:00",
+		"matchPhrase" : "PaulDeBruicker 4/26/2013 08:04",
+		"matchPhrasePrefix" : "PaulDeBruicker 4/26/2013 08:05",
+		"maxExpansions:" : "PaulDeBruicker 4/26/2013 08:08",
+		"modifiedJson" : "PaulDeBruicker 9/5/2013 09:24",
+		"simpleJson" : "PaulDeBruicker 9/5/2013 09:24" } }

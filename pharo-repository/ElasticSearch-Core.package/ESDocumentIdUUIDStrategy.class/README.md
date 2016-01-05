@@ -1,0 +1,1 @@
+Use this if you want to create your own UUIDs to use as ids for your documents. 

@@ -1,0 +1,16 @@
+{
+	"category" : "ElasticSearch-Core-Aggregations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"aggregationName",
+		"aggregationBody",
+		"aggregationType" ],
+	"name" : "ESAggregation",
+	"pools" : [
+		 ],
+	"super" : "JsonObject",
+	"type" : "normal" }

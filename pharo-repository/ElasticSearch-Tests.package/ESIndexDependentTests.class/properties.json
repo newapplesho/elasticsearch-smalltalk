@@ -1,0 +1,14 @@
+{
+	"category" : "ElasticSearch-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"index" ],
+	"name" : "ESIndexDependentTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

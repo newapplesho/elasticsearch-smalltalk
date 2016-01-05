@@ -1,0 +1,1 @@
+Used to create "unique" ids for documents.  Elasticsearch will do it automatically if you leave the id field blank when indexing a document

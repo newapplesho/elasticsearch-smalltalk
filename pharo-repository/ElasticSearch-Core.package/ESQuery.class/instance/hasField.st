@@ -1,0 +1,3 @@
+testing
+hasField
+	^ field notNil

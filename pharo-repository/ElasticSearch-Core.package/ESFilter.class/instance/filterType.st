@@ -1,0 +1,3 @@
+private
+filterType
+	self subclassResponsibility

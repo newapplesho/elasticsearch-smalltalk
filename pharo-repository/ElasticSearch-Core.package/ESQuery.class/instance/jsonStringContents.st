@@ -1,0 +1,3 @@
+accessing
+jsonStringContents
+	self subclassResponsibility

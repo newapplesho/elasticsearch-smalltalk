@@ -1,0 +1,3 @@
+accessing
+maxDeterminizedStates
+	^ maxDeterminizedStates

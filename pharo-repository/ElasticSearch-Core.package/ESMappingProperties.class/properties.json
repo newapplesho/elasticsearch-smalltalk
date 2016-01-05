@@ -1,0 +1,14 @@
+{
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"properties" ],
+	"name" : "ESMappingProperties",
+	"pools" : [
+		 ],
+	"super" : "ESObject",
+	"type" : "normal" }

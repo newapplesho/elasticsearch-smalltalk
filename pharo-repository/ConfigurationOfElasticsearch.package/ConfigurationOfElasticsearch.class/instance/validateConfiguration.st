@@ -1,0 +1,3 @@
+scripts
+validateConfiguration
+	MetacelloToolBox validateConfiguration: ConfigurationOfElasticsearch

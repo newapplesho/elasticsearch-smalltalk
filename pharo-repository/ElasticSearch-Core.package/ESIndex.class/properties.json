@@ -1,0 +1,18 @@
+{
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"shards",
+		"replicas",
+		"analysis",
+		"mapping",
+		"type" ],
+	"name" : "ESIndex",
+	"pools" : [
+		 ],
+	"super" : "ESObject",
+	"type" : "normal" }

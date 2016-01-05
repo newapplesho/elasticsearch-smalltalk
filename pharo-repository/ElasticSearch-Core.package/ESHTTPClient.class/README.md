@@ -1,0 +1,1 @@
+This class only exists because I'm going to port the package to Squeak and as far as I know Squeak doesn't use Zinc but instead uses WebClient and somebody will have to change all the HTTP client stuff

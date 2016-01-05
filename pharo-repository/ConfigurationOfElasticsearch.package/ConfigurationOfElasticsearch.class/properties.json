@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfElasticsearch",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfElasticsearch",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

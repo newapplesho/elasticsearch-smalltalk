@@ -1,0 +1,16 @@
+{
+	"category" : "ElasticSearch-Core-QueryDSL",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PaulDeBruicker 4/24/2013 10:16",
+	"instvars" : [
+		"query",
+		"field",
+		"modifiers" ],
+	"name" : "ESQuery",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

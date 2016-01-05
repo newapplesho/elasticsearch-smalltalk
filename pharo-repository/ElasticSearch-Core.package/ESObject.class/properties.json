@@ -1,0 +1,14 @@
+{
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name" ],
+	"name" : "ESObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

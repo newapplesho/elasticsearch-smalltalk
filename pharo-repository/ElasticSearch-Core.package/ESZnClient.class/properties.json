@@ -1,0 +1,14 @@
+{
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ESZnClient",
+	"pools" : [
+		 ],
+	"super" : "ESHTTPClient",
+	"type" : "normal" }

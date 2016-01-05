@@ -1,0 +1,1 @@
+Elasticesearch uses a big QueryDSL to fine tune searching.  Its not implemented in this client at all yet.  

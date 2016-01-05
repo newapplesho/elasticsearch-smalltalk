@@ -1,0 +1,14 @@
+{
+	"category" : "ElasticSearch-Core-Filter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"modifiers" ],
+	"name" : "ESFilter",
+	"pools" : [
+		 ],
+	"super" : "JsonObject",
+	"type" : "normal" }

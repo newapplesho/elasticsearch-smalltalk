@@ -1,0 +1,14 @@
+{
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PaulDeBruicker 4/24/2013 10:11",
+	"instvars" : [
+		"client" ],
+	"name" : "ESHTTPClient",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

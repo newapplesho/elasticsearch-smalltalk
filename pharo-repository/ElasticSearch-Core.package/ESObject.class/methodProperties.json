@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"baseUrl" : "PaulDeBruicker 4/21/2013 21:23",
+		"errorMessageFor:" : "PaulDeBruicker 4/23/2013 15:07",
+		"httpClient" : "PaulDeBruicker 4/23/2013 13:40",
+		"ifResponse:isNotErrorThenDo:" : "PaulDeBruicker 4/23/2013 15:03",
+		"logToTranscript" : "MasashiUmezawa 6/10/2015 14:08",
+		"loggingOff" : "ShoYoshida 6/12/2015 18:06",
+		"name" : "PaulDeBruicker 4/21/2013 21:20",
+		"name:" : "PaulDeBruicker 4/21/2013 21:20",
+		"parseJsonFromString:" : "PaulDeBruicker 4/22/2013 14:31",
+		"responseIsError:" : "PaulDeBruicker 4/23/2013 14:59" } }

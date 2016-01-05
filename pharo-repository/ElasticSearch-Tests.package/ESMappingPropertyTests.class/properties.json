@@ -1,0 +1,14 @@
+{
+	"category" : "ElasticSearch-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ESMappingPropertyTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

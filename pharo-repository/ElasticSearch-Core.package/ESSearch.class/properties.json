@@ -1,0 +1,24 @@
+{
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PaulDeBruicker 4/24/2013 10:18",
+	"instvars" : [
+		"index",
+		"queries",
+		"results",
+		"sortParameters",
+		"indexOfFirstResult",
+		"numberOfResultsToFetch",
+		"numberOfResultsInIndex",
+		"numberOfHits",
+		"aggregations",
+		"aggregateResult",
+		"uriParameters" ],
+	"name" : "ESSearch",
+	"pools" : [
+		 ],
+	"super" : "ESObject",
+	"type" : "normal" }

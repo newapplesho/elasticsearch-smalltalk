@@ -1,0 +1,15 @@
+{
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"docId",
+		"docType" ],
+	"name" : "ESMoreLikeThisAPISearch",
+	"pools" : [
+		 ],
+	"super" : "ESAPISearch",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+ids
+newId
+	^ ESDocumentId newId

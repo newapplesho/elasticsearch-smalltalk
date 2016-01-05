@@ -1,0 +1,15 @@
+{
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"modifiers" ],
+	"name" : "ESAnalyzer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

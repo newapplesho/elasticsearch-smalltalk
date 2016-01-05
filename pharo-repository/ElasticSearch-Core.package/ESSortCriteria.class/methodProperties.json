@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addModeTo:" : "PaulDeBruicker 4/27/2013 08:49",
+		"addOrderTo:" : "PaulDeBruicker 4/27/2013 08:48",
+		"asJsonString" : "PaulDeBruicker 9/5/2013 09:24",
+		"ascending" : "PaulDeBruicker 4/27/2013 08:42",
+		"ascending:" : "PaulDeBruicker 4/27/2013 08:42",
+		"fieldName" : "PaulDeBruicker 4/27/2013 08:42",
+		"fieldName:" : "PaulDeBruicker 4/27/2013 08:42",
+		"hasMode" : "PaulDeBruicker 4/27/2013 08:43",
+		"hasOrder" : "PaulDeBruicker 4/27/2013 08:43",
+		"jsonStringContents" : "PaulDeBruicker 9/5/2013 09:24",
+		"mode" : "PaulDeBruicker 4/27/2013 08:42",
+		"mode:" : "PaulDeBruicker 4/27/2013 08:42",
+		"sortAscending" : "PaulDeBruicker 4/27/2013 08:44",
+		"sortDescending" : "PaulDeBruicker 4/27/2013 08:44",
+		"useAvg" : "PaulDeBruicker 4/27/2013 08:51",
+		"useMax" : "PaulDeBruicker 4/27/2013 08:51",
+		"useMin" : "PaulDeBruicker 4/27/2013 08:50",
+		"useSum" : "PaulDeBruicker 4/27/2013 08:51" } }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"boostTerms:" : "PaulDeBruicker 4/26/2013 08:36",
+		"maximumDocumentFrequency:" : "PaulDeBruicker 4/26/2013 08:35",
+		"maximumWordLength:" : "PaulDeBruicker 4/26/2013 08:35",
+		"minimumDocumentFrequency:" : "PaulDeBruicker 4/26/2013 08:35",
+		"minimumTermFrequency:" : "PaulDeBruicker 4/26/2013 08:33",
+		"minimumWordLength:" : "PaulDeBruicker 4/26/2013 08:36",
+		"percentTermsToMatch:" : "PaulDeBruicker 4/26/2013 08:33",
+		"queryName" : "PaulDeBruicker 4/26/2013 08:42",
+		"stopWords:" : "PaulDeBruicker 4/26/2013 08:34" } }

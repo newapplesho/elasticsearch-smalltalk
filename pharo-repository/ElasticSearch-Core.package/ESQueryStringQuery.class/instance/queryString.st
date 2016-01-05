@@ -1,0 +1,3 @@
+accessing
+queryString
+	^ self query
