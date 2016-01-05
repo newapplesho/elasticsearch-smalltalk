@@ -20,4 +20,4 @@ Supported Smalltalk Versions Pharo Smalltalk 4.0
 | Elasticsearch Version | elasticsearch-smalltalk  |
 | --------------------- | ------------------------ |
 | >= 2.0                | not supported            |
-| >= 1.0, < 2.0         | supported                |
+| >= 1.5, < 2.0         | supported                |
