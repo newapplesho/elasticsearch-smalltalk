@@ -1,5 +1,5 @@
 # elasticsearch-smalltalk
-[Elasticsearch](https://www.elastic.co/products/elasticsearch) for Smalltalk.
+[Elasticsearch](https://www.elastic.co/products/elasticsearch) for Pharo Smalltalk.
 
 This project was migrated from SqueakSource3 repository: [http://ss3.gemtalksystems.com/ss/Elasticsearch.html](http://ss3.gemtalksystems.com/ss/Elasticsearch.html)
 
