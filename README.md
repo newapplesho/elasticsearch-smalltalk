@@ -8,7 +8,7 @@ This project was migrated from SqueakSource3 repository: [http://ss3.gemtalksyst
 
 ```smalltalk
 Gofer new
-    repository: 'http://ss3.gemtalksystems.com/ss/Elasticsearch';
+    url: 'http://ss3.gemtalksystems.com/ss/Elasticsearch';
     package: 'ConfigurationOfElasticsearch';
 	load.
 ```
