@@ -11,6 +11,7 @@ Gofer new
     url: 'http://ss3.gemtalksystems.com/ss/Elasticsearch';
     package: 'ConfigurationOfElasticsearch';
 	load.
+(Smalltalk at: #ConfigurationOfElasticsearch) load.
 ```
 
 # Version
