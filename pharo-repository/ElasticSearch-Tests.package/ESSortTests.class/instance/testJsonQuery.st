@@ -1,5 +1,5 @@
-tests-printing
-testAsJsonString
+tests-actions
+testJsonQuery
 	| index search query result  sortByScore sortByTitle |
 	index := ESIndex indexNamed: 'sushi_store'. 
 	index type:'store'.

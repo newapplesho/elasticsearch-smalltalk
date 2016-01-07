@@ -1,4 +1,4 @@
-as yet unclassified
+tests-json
 testSimpleJson
 	self
 		assert:
