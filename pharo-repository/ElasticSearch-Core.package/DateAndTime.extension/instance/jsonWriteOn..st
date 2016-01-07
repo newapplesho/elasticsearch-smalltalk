@@ -1,4 +1,4 @@
-*elasticsearch-core
+*Elasticsearch-Core
 jsonWriteOn: aStream
 	aStream nextPut: $".
 	self printOn: aStream.

@@ -1,4 +1,4 @@
-SystemOrganization addCategory: #'ElasticSearch-Core'!
-SystemOrganization addCategory: 'ElasticSearch-Core-Aggregations'!
-SystemOrganization addCategory: 'ElasticSearch-Core-Filter'!
-SystemOrganization addCategory: 'ElasticSearch-Core-QueryDSL'!
+SystemOrganization addCategory: #'Elasticsearch-Core'!
+SystemOrganization addCategory: 'Elasticsearch-Core-Aggregations'!
+SystemOrganization addCategory: 'Elasticsearch-Core-Filter'!
+SystemOrganization addCategory: 'Elasticsearch-Core-QueryDSL'!

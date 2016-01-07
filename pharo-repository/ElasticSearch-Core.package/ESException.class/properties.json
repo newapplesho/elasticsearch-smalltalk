@@ -1,0 +1,14 @@
+{
+	"category" : "Elasticsearch-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ESException",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

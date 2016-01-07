@@ -1,3 +1,3 @@
-*elasticsearch-core
+*Elasticsearch-Core
 logLevel
 	^logLevel 
