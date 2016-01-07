@@ -1,5 +1,5 @@
 {
-	"category" : "Elasticsearch-Tests",
+	"category" : "Elasticsearch-Tests-QueryDSL",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "ESMappingPropertyTests",
+	"name" : "ESTermQueryTests",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

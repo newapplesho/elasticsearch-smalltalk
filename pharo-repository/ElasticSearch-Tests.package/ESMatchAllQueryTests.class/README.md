@@ -1,0 +1,1 @@
+An ESMatchAllQueryTest is a test class for testing the behavior of ESMatchAllQuery
