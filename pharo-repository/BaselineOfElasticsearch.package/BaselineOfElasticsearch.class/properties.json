@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfElasticsearch",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfElasticsearch",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
