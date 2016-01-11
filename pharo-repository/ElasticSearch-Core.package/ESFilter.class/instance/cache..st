@@ -1,3 +1,3 @@
 accessing
 cache: aBoolean
-	self  at: '_cache' put: aBoolean
+	self at: '_cache' put: aBoolean

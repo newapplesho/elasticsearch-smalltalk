@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "ESOrFilter",
+		"filterList" ],
+	"name" : "ESBooleanFilter",
 	"pools" : [
 		 ],
-	"super" : "ESBooleanFilter",
+	"super" : "ESFilter",
 	"type" : "normal" }
