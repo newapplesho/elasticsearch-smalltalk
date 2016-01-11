@@ -1,3 +1,3 @@
 accessing
 matchPhrase
-	^ self type: 'phrase'
+	self type: 'phrase'
