@@ -1,4 +1,4 @@
 accessing
 aggregations
 	
-	^ aggregations
+	^ aggregations ifNil:[ aggregations := OrderedCollection new ]

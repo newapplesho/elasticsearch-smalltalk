@@ -1,3 +1,3 @@
 accessing
 field
-	^ self aggregationBody at: 'field'
+	^ self modifiers at: 'field' ifAbsent: [''].

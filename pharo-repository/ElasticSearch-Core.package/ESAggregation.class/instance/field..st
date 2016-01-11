@@ -1,3 +1,3 @@
 accessing
 field: aString
-	self aggregationBody at: 'field' put: aString
+	self modifiers at: 'field' put: aString

@@ -6,11 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"aggregationName",
-		"aggregationBody",
-		"aggregationType" ],
+		"field",
+		"modifiers",
+		"aggregationName" ],
 	"name" : "ESAggregation",
 	"pools" : [
 		 ],
-	"super" : "JsonObject",
+	"super" : "Object",
 	"type" : "normal" }

@@ -1,3 +1,3 @@
-accesing
+accessing
 addAggregation: anAggregations
-	self aggregations addAll: anAggregations
+	self aggregations add: anAggregations
