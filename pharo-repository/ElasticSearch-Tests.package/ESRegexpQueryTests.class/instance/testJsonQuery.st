@@ -1,11 +1,12 @@
-tests-actions
+tests-converting
 testJsonQuery
 	| index search query result |
-	index := ESIndex indexNamed: 'sushi_store'. 
-	index type:'store'.
+	index := ESIndex indexNamed: 'sushi_store'.
+	index type: 'sushi'.
 	search := ESSearch new index: index.
-	query := ESRegexpQuery new field:'title'; query:'.*tuna.*'.
+	query := ESRegexpQuery new
+		field: 'title';
+		query: '.*tuna.*'.
 	search addQuery: query.
 	result := search jsonQuery.
-	
-	self assert: result equals: '{"query": {"regexp":{"title":{"value":".*tuna.*"}}}}'.
+	self assert: result equals: '{"query":{"regexp":{"title":".*tuna.*"}}}'

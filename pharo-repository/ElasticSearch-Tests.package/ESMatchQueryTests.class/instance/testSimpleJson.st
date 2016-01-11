@@ -1,9 +1,8 @@
-tests-json
+tests-printing
 testSimpleJson
-	self
-		assert:
-			(ESMatchQuery new
-				query: 'donkey';
-				field: 'message';
-				yourself) asJsonString
-		equals:'"query": {"match":{"message":"donkey"}}'
+	| query |
+	query := ESMatchQuery new
+		query: 'donkey';
+		field: 'message';
+		yourself.
+	self assert: query asJsonString equals: '{"match":{"message":"donkey"}}'

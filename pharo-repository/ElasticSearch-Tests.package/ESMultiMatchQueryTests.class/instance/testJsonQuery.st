@@ -1,8 +1,8 @@
-tests-actions
+tests-converting
 testJsonQuery
 	| index search query result |
 	index := ESIndex indexNamed: 'sushi_store'. 
-	index type:'store'.
+	index type:'sushi'.
 	search := ESSearch new index: index.
 	query := ESMultiMatchQuery new.
 	query query:'tuna'.
@@ -10,4 +10,4 @@ testJsonQuery
 	search addQuery: query.
 	result := search jsonQuery.
 	
-	self assert: result equals: '{"query": {"multi_match":{"fields":["title","description"],"query":"tuna"}}}'.
+	self assert: result equals: '{"query":{"multi_match":{"fields":["title","description"],"query":"tuna"}}}'.

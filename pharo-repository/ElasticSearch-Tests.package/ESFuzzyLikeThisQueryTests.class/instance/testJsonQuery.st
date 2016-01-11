@@ -1,13 +1,13 @@
-tests-actions
+tests-converting
 testJsonQuery
 	| index search  result fuzzyLikeThisQuery |
 	index := ESIndex indexNamed: 'sushi_store'. 
-	index type:'store'.
+	index type:'sushi'.
 	search := ESSearch new index: index.
 	fuzzyLikeThisQuery := ESFuzzyLikeThisQuery new.
 	fuzzyLikeThisQuery query:'tuna'.
 	fuzzyLikeThisQuery fields: #('title' 'description').
-	search addQuery: fuzzyLikeThisQuery.
+	search query: fuzzyLikeThisQuery.
 	result := search jsonQuery.
 	
-	self assert: result equals: '{"query": {"fuzzy_like_this":{"fields":["title","description"],"like_text":"tuna"}}}'.
+	self assert: result equals: '{"query":{"fuzzy_like_this":{"like_text":"tuna","fields":["title","description"]}}}'.
