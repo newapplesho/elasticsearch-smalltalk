@@ -1,10 +1,5 @@
 printing
-jsonWriteContentValueOn: aStream
-	
-	aStream nextPut: ${.
-	self filterType jsonWriteOn: aStream.
-	aStream nextPut: $:.
+jsonWriteContentValueOn: aStream	
 	self modifiers jsonWriteOn: aStream.
-	aStream nextPut: $}.
 	
 	
