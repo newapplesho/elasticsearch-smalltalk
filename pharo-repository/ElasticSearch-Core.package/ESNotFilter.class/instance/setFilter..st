@@ -1,3 +1,3 @@
 accessing
-setFilter: anESFilter
-	self at: self filterType put: anESFilter jsonStringContents 
+setFilter: aFilter
+	self modifiers at: 'filter' put: aFilter.

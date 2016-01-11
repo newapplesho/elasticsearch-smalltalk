@@ -1,3 +1,3 @@
 accessing
 filterList
-	^ filterList
+	^ filterList ifNil:[ filterList := OrderedCollection  new. ]

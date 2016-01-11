@@ -1,5 +1,4 @@
 operations
 AND: aFilter
-	(aFilter size = 0 ) ifTrue:[ ^ self  ].
-	(self size = 0 ) ifTrue:[ ^ aFilter  ].
+	aFilter ifNil:[ ^ ESAndFilter new addFilter: self; yourself. ].
 	^ ESAndFilter new addFilter: self; addFilter: aFilter; yourself. 
