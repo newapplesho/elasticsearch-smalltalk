@@ -1,4 +1,3 @@
 accessing
 gt: anObject
-	from at:'gt' put: anObject.
-	self updateJson.
+	self modifiers at:'gt' put: anObject.

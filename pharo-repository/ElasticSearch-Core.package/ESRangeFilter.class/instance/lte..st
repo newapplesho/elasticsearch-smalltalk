@@ -1,4 +1,3 @@
 accessing
 lte: anObject
-	to at:'lte' put: anObject.
-	self updateJson.
+	self modifiers at:'lte' put: anObject.
