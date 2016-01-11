@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 addCriteria: anESSortCriteria
 	self criteria add: anESSortCriteria

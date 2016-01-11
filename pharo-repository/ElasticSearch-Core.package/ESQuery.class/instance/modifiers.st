@@ -1,3 +1,3 @@
 accessing
 modifiers
-	^ modifiers
+	^ modifiers ifNil: [modifiers := JsonObject new ]

@@ -1,6 +1,11 @@
-actions
+converting
 jsonQuery
-	^ String
+	self hasSortCriteria
+				ifTrue: [ self requestBodyJson at:'sort' put: self sortParameters. ].
+	"self hasAggregations
+				ifTrue: [ self requestBodyJson at:'sort' put: self aggregations. ]."
+	^ self requestBodyJson asJsonString
+	"^ String
 		streamContents: [ :s | 
 			s nextPut: ${.
 			self queries
@@ -16,4 +21,4 @@ jsonQuery
 				ifTrue: [ 
 					s position > 1 ifTrue:[ s nextPutAll: ', '. ].
 					s nextPutAll: self aggregations asJsonString ].
-			s nextPut: $} ]
+			s nextPut: $} ]"

@@ -1,3 +1,3 @@
 accessing
 query: anObject
-	query := anObject
+	self modifiers at: self queryKeyName put: anObject

@@ -1,3 +1,3 @@
-actions
+accessing
 useAvg
 	self mode: 'avg'

@@ -2,5 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"filter:" : "PaulDeBruicker 1/7/2014 16:56",
-		"jsonStringContents" : "ShoYoshida 6/12/2015 17:21" } }
+		"filter:" : "ShoYoshida 1/9/2016 12:25",
+		"jsonWriteContentBeginOn:" : "ShoYoshida 1/9/2016 12:13",
+		"jsonWriteContentEndOn:" : "ShoYoshida 1/9/2016 12:13",
+		"jsonWriteContentValueOn:" : "ShoYoshida 1/9/2016 12:27",
+		"queryType" : "ShoYoshida 1/9/2016 12:13" } }

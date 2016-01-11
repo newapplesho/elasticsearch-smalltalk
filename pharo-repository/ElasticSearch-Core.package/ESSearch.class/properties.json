@@ -7,7 +7,7 @@
 	"commentStamp" : "PaulDeBruicker 4/24/2013 10:18",
 	"instvars" : [
 		"index",
-		"queries",
+		"requestBodyJson",
 		"results",
 		"sortParameters",
 		"indexOfFirstResult",

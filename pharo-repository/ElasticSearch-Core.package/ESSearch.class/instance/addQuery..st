@@ -1,3 +1,4 @@
 accessing
 addQuery: aQuery
-	self queries add: aQuery
+	self deprecated: 'Use #query:'.
+	self requestBodyJson at:'query' put: aQuery.

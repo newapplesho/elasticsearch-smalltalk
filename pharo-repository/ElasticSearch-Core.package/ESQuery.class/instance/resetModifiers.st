@@ -1,3 +1,3 @@
 modifiers
 resetModifiers
-	modifiers := JsonObject new
+	modifiers := nil

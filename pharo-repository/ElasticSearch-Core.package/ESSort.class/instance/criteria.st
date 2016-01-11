@@ -1,3 +1,3 @@
 accessing
 criteria
-	^ criteria
+	^ criteria ifNil:[ criteria := OrderedCollection new ]

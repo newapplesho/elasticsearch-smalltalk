@@ -1,3 +1,3 @@
 accessing
-mode: anObject
-	mode := anObject
+mode: aString
+	self modifiers at:'mode' put: aString.

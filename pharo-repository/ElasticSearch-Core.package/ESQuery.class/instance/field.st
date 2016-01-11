@@ -1,3 +1,3 @@
 accessing
 field
-	^ field ifNil: [ ^ '_all' ]
+	^ field ifNil: [field := self defaultField]

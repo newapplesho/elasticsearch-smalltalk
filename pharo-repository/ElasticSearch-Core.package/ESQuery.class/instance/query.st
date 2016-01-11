@@ -1,3 +1,3 @@
 accessing
 query
-	^ query
+	^ self modifiers at: 'query' ifAbsent:[]

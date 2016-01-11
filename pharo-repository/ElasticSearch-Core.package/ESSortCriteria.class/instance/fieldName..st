@@ -1,3 +1,3 @@
-accessing
+deprecated
 fieldName: anObject
-	fieldName := anObject
+	self field: anObject

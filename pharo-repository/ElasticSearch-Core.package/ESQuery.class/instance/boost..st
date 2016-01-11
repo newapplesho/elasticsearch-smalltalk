@@ -1,3 +1,3 @@
-modifiers
+accessing
 boost: aNumber
-	^ self modifiers at: 'boost' put: aNumber
+	self modifiers at: 'boost' put: aNumber
