@@ -1,0 +1,14 @@
+{
+	"category" : "Elasticsearch-Core-Filter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ESPrefixFilter",
+	"pools" : [
+		 ],
+	"super" : "ESFilter",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+constants
+filterType
+	^ 'exists'

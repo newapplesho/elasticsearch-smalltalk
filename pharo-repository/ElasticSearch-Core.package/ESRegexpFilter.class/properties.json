@@ -1,0 +1,14 @@
+{
+	"category" : "Elasticsearch-Core-Filter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ESRegexpFilter",
+	"pools" : [
+		 ],
+	"super" : "ESFilter",
+	"type" : "normal" }
