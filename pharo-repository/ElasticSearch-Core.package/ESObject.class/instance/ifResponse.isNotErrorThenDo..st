@@ -1,5 +1,9 @@
 json
 ifResponse: someJson isNotErrorThenDo: aBlock
 	(self responseIsError: someJson)
-		ifTrue: [ ESException signal: (self errorMessageFor: someJson) ]
+		ifTrue: [ 
+			ESException new
+				properties: (self errorMessageFor: someJson);
+				messageText: (self errorMessageFor: someJson) asString;
+				signal ]
 		ifFalse: [ aBlock value: someJson ]
