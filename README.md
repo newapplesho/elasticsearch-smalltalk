@@ -34,4 +34,4 @@ Supported Smalltalk Versions Pharo Smalltalk 4.0
 | >= 1.5, < 2.0         | v1.1.3                   |
 
 # How to use
-[Wiki](https://github.com/newapplesho/elasticsearch-smalltalk/wiki)
+http://www.slideshare.net/newapplesho/elasticsearch-for-pharo-smalltalk
