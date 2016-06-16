@@ -30,7 +30,7 @@ Supported Smalltalk Versions Pharo Smalltalk 4.0
 
 | Elasticsearch Version | elasticsearch-smalltalk  |
 | --------------------- | ------------------------ |
-| >= 2.0                | not supported            |
+| >= 2.0                | v1.1.5                   |
 | >= 1.5, < 2.0         | v1.1.3                   |
 
 # How to use
