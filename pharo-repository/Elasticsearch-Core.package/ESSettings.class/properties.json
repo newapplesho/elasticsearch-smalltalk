@@ -6,9 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"name",
-		"settings" ],
-	"name" : "ESObject",
+		"settingsDict" ],
+	"name" : "ESSettings",
 	"pools" : [
 		 ],
 	"super" : "Object",
