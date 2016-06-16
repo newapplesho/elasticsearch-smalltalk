@@ -1,0 +1,48 @@
+index := ESIndex indexNamed: 'sushi_store'. 
+
+( #(
+#('Akami Maguro' 'Red Tuna' 'The lean meat near the spine of the tuna fish.  It comes in various shades of red--with the lighter, shinier varieties being the best.  For dieters, however, the redder the better.  Easy on the palatte.  The least expensive of the three types of maguro.' 150)
+#('Chutoro Maguro' 'Fatty Tuna' 'The moderately fatty part of the tuna belly.  It''s pink, but not the faint pink of ohtoro.  Soft, butter-like texture.  Moderately expensive.' 275)
+#('Geso Ika' 'Cuttlefish Tentacles' 'White in color, geso is boiled and brushed with thick teriyaki sauce before serving as sushi.  Its texture is chewy, and its mild flavor is complemented by the sweet-salty teriyaki.' 200)
+#('Himo Akagai' 'Ark Shell Filaments' 'This is the thread-like edges which connect the flesh to the shell.  A delicious, soft texture and mild taste.' 200)
+#('Hotategai' 'Scallop' 'The part of the scallop that is eaten is the edible adductor muscle that opens the animal''s shell.  It''s pale beige-yellow in color with a brown, crusty edging.  The taste is delicate, and melts in your mouth. ' 250)
+#('Iwashi' 'Sardine' 'Shiny, slippery, and ''fishy,'' the taste of sardine sushi is slightly oily.  Sardine must be eaten shortly after it has been caught if it''s to be used in Sushi.  Often eaten with soy sauce mixed with ginger and onion.' 175)
+#('Kazunoko' 'Herring Roe' 'An expensive delicacy which is also known as ''yellow diamonds'' (because of the color and expense).  Revered in Japan, it''s usually eaten on special occasions.  An acquired taste for Westerners.' 475)
+#('Kisu' 'Sillago' 'A fresh Sillago has bright-gold skin. The taste is mild and delicate.' 225)
+#('Ohtoro Maguro' 'Fattiest Tuna' 'Fattiest part of the fatty tuna belly.  It is light pink in color and melts in your mouth.  Mild with a rich texture.  This is the most expensive of the three types of Maguro sushi.' 325)
+#('Shima-Aji' 'Yellow Jack' 'A slice of white silvery shima-aji eaten with beef-steak plant and fresh ginger is delicious.  The flavor is delicate and the texture of good, fresh yellow jack is smooth and slides down easily.' 180)
+#('Aji' 'Horse Mackerel' 'This fish is pink-grey and shiny.  When it''s fresh, the flesh is almost transparent.  The texture is slippery and easy on the tongue--it should melt in your mouth.  Aji is often eaten with soy sauce containing onion, ginger and garlic.' 250)
+#('Inarizushi' 'Stuffed Bean Curd Rolls' '' 200)
+#('Kappa Maki' 'Cucumber Rolls' '' 150)
+#('Sakura Denbu' 'Shredded Cod Fish' 'Seasoned shredded cod fish.' 200)
+#('California Roll' '' 'Rice, cucumber, crab meat, & avacado.' 250)
+#('Futo-Maki' 'Fat Rolls' 'Kampyo gourd, oboro or denbu pink powder, tamago omelet, and shiitake mushrooms. May also include bamboo shoots, cucumbers, cooked eel, cooked carrots, and cooked spinach or other greens.' 275)
+#('Tekkamaki' 'Tuna Roll' 'Tuna wrapped in rice and nori.' 225)
+#('Chakinzushi' 'Omelet-wrapped Sushi' 'Sushi rice in a thin omelet wrapper shaped and tied like a lady''s drawstring purse.  Sometimes a single pea or small shrimp decorates the ruffled part of the wrapper.' 300)
+#('Shiro Maguro' 'Albacore Tuna' '' 300)
+#('Hamachi' 'Yellowtail' '' 325)
+#('Kohada' 'Gizzard Shad' 'This Japanese shad is a member of the herring family, and is a small silver-grey fish, with a black spotted back.  Marinated in vinegar and cross- hatched before serving.  The taste is strong, and a favorite for herring fans.' 275)
+#('Katsuo' 'Bonito' '' 275)
+#('Saba' 'Mackerel' '' 200)
+#('Sake' 'Salmon' '' 250)
+#('Tai' 'Red Snapper' '' 250)
+#('Hirame' 'Flounder' 'Good hirame is a sushi gourmet''s delight.  Since it''s cut from such a small part of the fish, it''s scarce and expensive.  In appearance, it''s pale pink and smooth, with no markings.  The taste is delicate and buttery.' 350)
+#('Suzuki' 'Sea Bass' '' 300)
+#('Unagi' 'Freshwater Eel' '' 300)
+#('Ika' 'Cuttlefish' 'When fresh, cuttlefish is almost transparent.  It''s butter-like and melts in your mouth.  The texture is sticky.  Cuttlefish is smoky white and glistens. Also popular grilled and mixed with ginger soy sauce.  Also good with lemon for Western palettes.' 325)
+#('Awabi' 'Abalone' 'Abalone or ''sea snail'' is another sushi favorite.  The color ranges from beige-grey to pinkish yellow.  Fresh abalone is not too rubbery, and is very subtle in flavor.' 300)
+#('Mirugai' 'Horse Clam' 'Also known as Geoduck.  This is a large, hard-shelled clam which is yellowish-white in color.  It has a slight ''shellfish'' taste and an elastic type texture. The part used in sushi is the long muscular siphon which projects from the shell.' 350)
+#('Akagai' 'Ark Shell Clam' 'The softest texture of any shellfish. Akagai has an attractive pink-orange color.  The taste is delicate and slightly sweet.' 300)
+#('Kobashira' 'Trough Shell (Small) Scallop' 'The edible adductor muscle that opens the shell of the aoyagi.  More prized than the aoyagi itself.' 500)
+#('Kani' 'Crab' '' 250)
+#('Ebi' 'Cooked Prawn' '' 225)
+#('Ikura' 'Salmon Roe' 'Appealing to the eye with its bright red color.  Very appetizing with a delicate taste.' 325)
+#('Tobiko ' 'Flying-Fish Roe' '' 350)
+#('Masago ' 'Capelin Roe' '' 350)
+#('Anago' 'Conger Eel' 'Anago is one of the few pre-cooked sushi.  It is grilled and basted with a thick teriyaki sauce.  The soft, slighty warm eel, the sweet soy sauce, and the vinegared rice make a particularly delicious sushi.' 300)
+#('Uni' 'Sea Urchin Roe' 'A prized delicacy with its oily, rich texture.  Mustard color, paste-like topping is held in place by a band of nori seaweed.' 400)
+) asSortedCollection: [:a :b | a first <= b first] ) do:[:v |
+	neta := JsonObject new.
+	neta title: v first ; description: v third; price: v fourth.
+	esDocument := ESDocument new type:'store';  content: neta.
+	index addDocument: esDocument. ].

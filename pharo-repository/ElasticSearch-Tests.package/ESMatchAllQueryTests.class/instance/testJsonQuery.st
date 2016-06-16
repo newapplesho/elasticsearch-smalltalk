@@ -5,7 +5,7 @@ testJsonQuery
 	index type:'sushi'.
 	search := ESSearch new index: index.
 	query := ESMatchAllQuery new.
-	search addQuery: query.
+	search query: query.
 	result := search jsonQuery.
 	
 	self assert: result equals: '{"query":{"match_all":{}}}'.

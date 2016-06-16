@@ -1,0 +1,25 @@
+{
+  "mappings": {
+    "store": {
+      "_all": {
+        "enabled": true
+      },
+      "properties": {
+        "title": {
+          "type": "string",
+          "store": "yes",
+          "index": "not_analyzed"
+        },
+        "description": {
+          "type": "string",
+          "store": "yes",
+          "index": "analyzed"
+        },
+        "price": {
+          "type": "integer",
+          "store": "yes"
+        }
+      }
+    }
+  }
+}
