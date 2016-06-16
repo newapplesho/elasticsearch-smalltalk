@@ -13,7 +13,8 @@
 		"content",
 		"created",
 		"modified",
-		"parents" ],
+		"parents",
+		"score" ],
 	"name" : "ESDocument",
 	"pools" : [
 		 ],
