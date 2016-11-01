@@ -9,7 +9,7 @@ This project was migrated from SqueakSource3 repository: [http://ss3.gemtalksyst
 ```smalltalk
 Metacello new
     baseline: 'Elasticsearch';
-    repository: 'github://newapplesho/elasticsearch-smalltalk:v1.1.6/pharo-repository';
+    repository: 'github://newapplesho/elasticsearch-smalltalk:v1.1.7/pharo-repository';
     load.
 ```
 
