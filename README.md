@@ -24,9 +24,10 @@ Gofer new
 (Smalltalk at: #ConfigurationOfElasticsearch) load.
 ```
 
-# Version
+## Supported Smalltalk Versions
+[Pharo Smalltalk](http://pharo.org/) 4.0, 5.0
 
-Supported Smalltalk Versions Pharo Smalltalk 4.0
+# Version
 
 | Elasticsearch Version | elasticsearch-smalltalk  |
 | --------------------- | ------------------------ |
