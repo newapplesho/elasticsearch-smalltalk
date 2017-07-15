@@ -3,8 +3,17 @@
 
 This project was migrated from SqueakSource3 repository: [http://ss3.gemtalksystems.com/ss/Elasticsearch.html](http://ss3.gemtalksystems.com/ss/Elasticsearch.html)
 
+## Supported Smalltalk Versions
+[Pharo Smalltalk](http://pharo.org/) 4.0, 5.0
 
-# Installation
+## Version
+
+| Elasticsearch Version | elasticsearch-smalltalk  |
+| --------------------- | ------------------------ |
+| >= 2.0                | v1.1.7                   |
+| >= 1.5, < 2.0         | v1.1.4                   |
+
+## Installation
 
 ```smalltalk
 Metacello new
@@ -15,7 +24,6 @@ Metacello new
 
 or
 
-
 ```smalltalk
 Gofer new
     url: 'http://ss3.gemtalksystems.com/ss/Elasticsearch';
@@ -24,15 +32,5 @@ Gofer new
 (Smalltalk at: #ConfigurationOfElasticsearch) load.
 ```
 
-## Supported Smalltalk Versions
-[Pharo Smalltalk](http://pharo.org/) 4.0, 5.0
-
-# Version
-
-| Elasticsearch Version | elasticsearch-smalltalk  |
-| --------------------- | ------------------------ |
-| >= 2.0                | v1.1.7                   |
-| >= 1.5, < 2.0         | v1.1.4                   |
-
-# How to use
+## How to use
 http://www.slideshare.net/newapplesho/elasticsearch-for-pharo-smalltalk
