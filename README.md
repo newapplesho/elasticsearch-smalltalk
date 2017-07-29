@@ -4,7 +4,7 @@
 This project was migrated from SqueakSource3 repository: [http://ss3.gemtalksystems.com/ss/Elasticsearch.html](http://ss3.gemtalksystems.com/ss/Elasticsearch.html)
 
 ## Supported Smalltalk Versions
-[Pharo Smalltalk](http://pharo.org/) 4.0, 5.0
+[Pharo Smalltalk](http://pharo.org/) 4.0, 5.0, 6.0
 
 ## Version
 
