@@ -1,10 +1,10 @@
-# elasticsearch-smalltalk
+# elasticsearch-smalltalk [![Build Status](https://travis-ci.org/newapplesho/elasticsearch-smalltalk.svg?branch=master)](https://travis-ci.org/newapplesho/elasticsearch-smalltalk)
 [Elasticsearch](https://www.elastic.co/products/elasticsearch) for Pharo Smalltalk.
 
 This project was migrated from SqueakSource3 repository: [http://ss3.gemtalksystems.com/ss/Elasticsearch.html](http://ss3.gemtalksystems.com/ss/Elasticsearch.html)
 
 ## Supported Smalltalk Versions
-[Pharo Smalltalk](http://pharo.org/) 4.0, 5.0, 6.0
+[Pharo Smalltalk](http://pharo.org/) 4.0, 5.0, 6.0, 6.1
 
 ## Version
 
@@ -18,18 +18,8 @@ This project was migrated from SqueakSource3 repository: [http://ss3.gemtalksyst
 ```smalltalk
 Metacello new
     baseline: 'Elasticsearch';
-    repository: 'github://newapplesho/elasticsearch-smalltalk:v1.1.7/pharo-repository';
+    repository: 'github://newapplesho/elasticsearch-smalltalk/pharo-repository';
     load.
-```
-
-or
-
-```smalltalk
-Gofer new
-    url: 'http://ss3.gemtalksystems.com/ss/Elasticsearch';
-    package: 'ConfigurationOfElasticsearch';
-	load.
-(Smalltalk at: #ConfigurationOfElasticsearch) load.
 ```
 
 ## How to use
