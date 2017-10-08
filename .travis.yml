@@ -6,6 +6,12 @@ os:
   - linux
 #  - osx
 
+services:
+  - elasticsearch
+
+before_install:
+   - curl -O https://download.elastic.co/elasticsearch/release/org/elasticsearch/distribution/deb/elasticsearch/2.3.0/elasticsearch-2.3.0.deb && sudo dpkg -i --force-confnew elasticsearch-2.3.0.deb && sudo service elasticsearch restart
+
 # Select compatible Smalltalk image(s)
 smalltalk:
 #  - Pharo-7.0
