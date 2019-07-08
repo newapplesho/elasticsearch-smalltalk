@@ -1,3 +1,3 @@
 testing
 typeExistsAt: aUrl
-	^ (self client headResponseStatusFor: aUrl url) = 200
+	^ ((self head: aUrl) code) = 200

@@ -1,10 +1,10 @@
 {
-	"category" : "Elasticsearch-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "ESObject",
+	"category" : "Elasticsearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"id",
 		"version",
@@ -14,9 +14,8 @@
 		"created",
 		"modified",
 		"parents",
-		"score" ],
+		"score"
+	],
 	"name" : "ESDocument",
-	"pools" : [
-		 ],
-	"super" : "ESObject",
-	"type" : "normal" }
+	"type" : "normal"
+}

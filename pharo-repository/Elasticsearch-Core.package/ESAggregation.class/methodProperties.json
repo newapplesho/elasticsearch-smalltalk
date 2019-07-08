@@ -1,17 +1,18 @@
 {
-	"class" : {
-		 },
 	"instance" : {
 		"aggregationName" : "ShoYoshida 1/11/2016 16:13",
-		"aggregationName:" : "ShoYoshida 1/11/2016 15:56",
-		"field" : "ShoYoshida 1/11/2016 16:12",
-		"field:" : "ShoYoshida 1/11/2016 16:08",
-		"jsonWriteContentBeginOn:" : "ShoYoshida 1/11/2016 15:59",
-		"jsonWriteContentEndOn:" : "ShoYoshida 1/11/2016 16:01",
-		"jsonWriteContentOn:" : "ShoYoshida 1/11/2016 15:52",
-		"jsonWriteContentValueOn:" : "ShoYoshida 1/11/2016 16:10",
-		"jsonWriteOn:" : "ShoYoshida 1/11/2016 15:59",
-		"modifiers" : "ShoYoshida 1/11/2016 16:09",
-		"modifiers:" : "ShoYoshida 1/11/2016 15:50",
 		"script:" : "ShoYoshida 1/11/2016 16:14",
-		"type" : "ShoYoshida 6/12/2015 13:13" } }
+		"jsonWriteOn:" : "ShoYoshida 1/11/2016 15:59",
+		"jsonWriteContentBeginOn:" : "ShoYoshida 1/11/2016 15:59",
+		"field" : "ShoYoshida 1/11/2016 16:12",
+		"aggregationName:" : "ShoYoshida 1/11/2016 15:56",
+		"jsonWriteContentOn:" : "ShoYoshida 1/11/2016 15:52",
+		"modifiers" : "ShoYoshida 1/11/2016 16:09",
+		"type" : "ShoYoshida 6/12/2015 13:13",
+		"jsonWriteContentValueOn:" : "ShoYoshida 1/11/2016 16:10",
+		"jsonWriteContentEndOn:" : "ShoYoshida 1/11/2016 16:01",
+		"field:" : "ShoYoshida 1/11/2016 16:08",
+		"modifiers:" : "ShoYoshida 1/11/2016 15:50"
+	},
+	"class" : { }
+}

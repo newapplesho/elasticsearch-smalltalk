@@ -1,14 +1,11 @@
 {
-	"category" : "Elasticsearch-Core-QueryDSL",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ESMatchQuery",
-	"pools" : [
-		 ],
 	"super" : "ESQuery",
-	"type" : "normal" }
+	"category" : "Elasticsearch-Core-QueryDSL",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESMatchQuery",
+	"type" : "normal"
+}

@@ -1,10 +1,11 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"addCriteria:" : "PaulDeBruicker 4/27/2013 08:56",
-		"byScore" : "PaulDeBruicker 4/27/2013 08:55",
-		"criteria" : "ShoYoshida 1/9/2016 13:19",
 		"criteria:" : "PaulDeBruicker 4/27/2013 08:55",
 		"hasSortCriteria" : "PaulDeBruicker 9/15/2014 20:02",
-		"jsonWriteOn:" : "ShoYoshida 1/9/2016 13:21" } }
+		"criteria" : "ShoYoshida 1/9/2016 13:19",
+		"byScore" : "PaulDeBruicker 4/27/2013 08:55",
+		"addCriteria:" : "PaulDeBruicker 4/27/2013 08:56",
+		"jsonWriteOn:" : "ShoYoshida 1/9/2016 13:21"
+	},
+	"class" : { }
+}

@@ -1,12 +1,15 @@
 {
-	"class" : {
-		"forString:" : "ShoYoshida 9/30/2015 18:06" },
 	"instance" : {
 		"flags" : "ShoYoshida 9/30/2015 20:51",
-		"flags:" : "ShoYoshida 9/30/2015 20:51",
-		"jsonWriteContentBeginOn:" : "ShoYoshida 1/9/2016 10:45",
-		"jsonWriteContentEndOn:" : "ShoYoshida 1/9/2016 09:49",
 		"maxDeterminizedStates" : "ShoYoshida 9/30/2015 20:51",
+		"flags:" : "ShoYoshida 9/30/2015 20:51",
 		"maxDeterminizedStates:" : "ShoYoshida 9/30/2015 20:51",
+		"queryType" : "ShoYoshida 1/9/2016 09:50",
 		"queryKeyName" : "ShoYoshida 1/9/2016 10:14",
-		"queryType" : "ShoYoshida 1/9/2016 09:50" } }
+		"jsonWriteContentBeginOn:" : "ShoYoshida 1/9/2016 10:45",
+		"jsonWriteContentEndOn:" : "ShoYoshida 1/9/2016 09:49"
+	},
+	"class" : {
+		"forString:" : "ShoYoshida 9/30/2015 18:06"
+	}
+}

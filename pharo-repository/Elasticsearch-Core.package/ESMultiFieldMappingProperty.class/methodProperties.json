@@ -1,13 +1,14 @@
 {
-	"class" : {
-		 },
 	"instance" : {
+		"jsonContent" : "PaulDeBruicker 9/5/2013 09:24",
 		"addDefaultField:" : "PaulDeBruicker 5/10/2013 06:46",
-		"addField:" : "PaulDeBruicker 5/10/2013 06:46",
 		"addSecondaryField:" : "PaulDeBruicker 5/10/2013 06:46",
 		"fields" : "PaulDeBruicker 5/10/2013 06:52",
-		"includeDefaultInAll:" : "PaulDeBruicker 5/9/2013 16:35",
 		"initialize" : "PaulDeBruicker 5/9/2013 16:35",
-		"jsonContent" : "PaulDeBruicker 9/5/2013 09:24",
+		"addField:" : "PaulDeBruicker 5/10/2013 06:46",
 		"path:" : "PaulDeBruicker 5/9/2013 16:30",
-		"type" : "PaulDeBruicker 5/9/2013 16:32" } }
+		"type" : "PaulDeBruicker 5/9/2013 16:32",
+		"includeDefaultInAll:" : "PaulDeBruicker 5/9/2013 16:35"
+	},
+	"class" : { }
+}

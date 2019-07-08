@@ -1,9 +1,10 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"addAggregation:" : "ShoYoshida 1/11/2016 17:48",
+		"hasAggregations" : "ShoYoshida 6/12/2015 14:16",
 		"aggregations" : "ShoYoshida 1/11/2016 17:45",
 		"aggregations:" : "ShoYoshida 6/11/2015 00:14",
-		"hasAggregations" : "ShoYoshida 6/12/2015 14:16",
-		"jsonWriteOn:" : "ShoYoshida 1/11/2016 17:53" } }
+		"addAggregation:" : "ShoYoshida 1/11/2016 17:48",
+		"jsonWriteOn:" : "ShoYoshida 1/11/2016 17:53"
+	},
+	"class" : { }
+}

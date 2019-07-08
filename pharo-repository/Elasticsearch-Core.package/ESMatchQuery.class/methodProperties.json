@@ -1,14 +1,15 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"boolean:" : "PaulDeBruicker 4/26/2013 06:48",
+		"type:" : "ShoYoshida 1/11/2016 11:35",
 		"cutoffFrequency:" : "PaulDeBruicker 4/26/2013 06:48",
-		"fuzziness:" : "PaulDeBruicker 4/26/2013 08:07",
 		"jsonWriteContentBeginOn:" : "ShoYoshida 1/9/2016 10:56",
-		"jsonWriteContentEndOn:" : "ShoYoshida 1/9/2016 10:32",
+		"fuzziness:" : "PaulDeBruicker 4/26/2013 08:07",
 		"matchPhrase" : "ShoYoshida 1/11/2016 19:10",
 		"matchPhrasePrefix" : "ShoYoshida 1/11/2016 19:10",
-		"maxExpansions:" : "PaulDeBruicker 4/26/2013 08:08",
 		"queryType" : "ShoYoshida 1/8/2016 18:26",
-		"type:" : "ShoYoshida 1/11/2016 11:35" } }
+		"maxExpansions:" : "PaulDeBruicker 4/26/2013 08:08",
+		"jsonWriteContentEndOn:" : "ShoYoshida 1/9/2016 10:32",
+		"boolean:" : "PaulDeBruicker 4/26/2013 06:48"
+	},
+	"class" : { }
+}

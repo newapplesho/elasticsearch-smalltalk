@@ -1,3 +1,3 @@
 private
 newLogEvent: logEventClass
-	^ self client newLogEvent: logEventClass
+	^ self underlyingClient newLogEvent: logEventClass

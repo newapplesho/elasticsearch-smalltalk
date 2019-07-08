@@ -1,15 +1,14 @@
 {
-	"category" : "Elasticsearch-Core-QueryDSL",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "ESQuery",
+	"category" : "Elasticsearch-Core-QueryDSL",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"flags",
-		"maxDeterminizedStates" ],
+		"maxDeterminizedStates"
+	],
 	"name" : "ESRegexpQuery",
-	"pools" : [
-		 ],
-	"super" : "ESQuery",
-	"type" : "normal" }
+	"type" : "normal"
+}

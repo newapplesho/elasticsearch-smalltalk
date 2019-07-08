@@ -1,13 +1,16 @@
 {
-	"class" : {
-		"with:" : "MasashiUmezawa 6/10/2015 17:56" },
 	"instance" : {
-		"atEnd" : "MasashiUmezawa 6/10/2015 18:10",
-		"currentIndex" : "MasashiUmezawa 6/10/2015 17:04",
 		"fetchNextUnits" : "MasashiUmezawa 6/10/2015 18:08",
 		"fetchUpToEnd" : "MasashiUmezawa 6/10/2015 18:00",
-		"maxIndex" : "MasashiUmezawa 6/10/2015 17:04",
 		"resultStream" : "MasashiUmezawa 6/10/2015 17:11",
-		"resultStream:" : "MasashiUmezawa 6/10/2015 16:57",
+		"maxIndex" : "MasashiUmezawa 6/10/2015 17:04",
 		"searcher" : "MasashiUmezawa 6/10/2015 16:57",
-		"searcher:" : "MasashiUmezawa 6/10/2015 16:57" } }
+		"searcher:" : "MasashiUmezawa 6/10/2015 16:57",
+		"resultStream:" : "MasashiUmezawa 6/10/2015 16:57",
+		"currentIndex" : "MasashiUmezawa 6/10/2015 17:04",
+		"atEnd" : "MasashiUmezawa 6/10/2015 18:10"
+	},
+	"class" : {
+		"with:" : "MasashiUmezawa 6/10/2015 17:56"
+	}
+}

@@ -1,16 +1,15 @@
 {
-	"category" : "Elasticsearch-Core-Aggregations",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Elasticsearch-Core-Aggregations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"field",
 		"modifiers",
-		"aggregationName" ],
+		"aggregationName"
+	],
 	"name" : "ESAggregation",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

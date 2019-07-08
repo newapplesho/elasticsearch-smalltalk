@@ -1,18 +1,19 @@
 {
-	"class" : {
-		 },
 	"instance" : {
+		"sort:" : "PaulDeBruicker 4/24/2013 07:46",
+		"trackScores:" : "PaulDeBruicker 4/24/2013 07:46",
+		"fields:" : "PaulDeBruicker 4/24/2013 07:45",
 		"analyzeWildcard:" : "PaulDeBruicker 4/24/2013 07:44",
-		"analyzer:" : "PaulDeBruicker 4/24/2013 07:44",
+		"timeout:" : "PaulDeBruicker 4/24/2013 07:46",
 		"defaultField:" : "PaulDeBruicker 4/24/2013 07:45",
+		"queryString:" : "PaulDeBruicker 4/24/2013 07:44",
+		"lowercaseExpandedTerms:" : "PaulDeBruicker 4/24/2013 07:47",
 		"defaultOperator:" : "PaulDeBruicker 4/24/2013 07:45",
 		"explain:" : "PaulDeBruicker 4/24/2013 07:45",
-		"fields:" : "PaulDeBruicker 4/24/2013 07:45",
-		"from:" : "PaulDeBruicker 4/24/2013 07:46",
 		"initialize" : "PaulDeBruicker 5/8/2013 10:28",
-		"lowercaseExpandedTerms:" : "PaulDeBruicker 4/24/2013 07:47",
-		"queryString:" : "PaulDeBruicker 4/24/2013 07:44",
+		"from:" : "PaulDeBruicker 4/24/2013 07:46",
 		"size:" : "PaulDeBruicker 4/24/2013 07:46",
-		"sort:" : "PaulDeBruicker 4/24/2013 07:46",
-		"timeout:" : "PaulDeBruicker 4/24/2013 07:46",
-		"trackScores:" : "PaulDeBruicker 4/24/2013 07:46" } }
+		"analyzer:" : "PaulDeBruicker 4/24/2013 07:44"
+	},
+	"class" : { }
+}

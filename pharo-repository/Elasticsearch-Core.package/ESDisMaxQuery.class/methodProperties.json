@@ -1,11 +1,14 @@
 {
-	"class" : {
-		"queries:" : "MasashiUmezawa 10/26/2016 11:19" },
 	"instance" : {
-		"jsonWriteContentBeginOn:" : "MasashiUmezawa 10/26/2016 11:38",
-		"jsonWriteContentEndOn:" : "MasashiUmezawa 10/26/2016 11:38",
-		"jsonWriteContentValueOn:" : "MasashiUmezawa 10/26/2016 11:27",
+		"tieBreaker:" : "MasashiUmezawa 10/26/2016 11:16",
 		"queries" : "MasashiUmezawa 10/26/2016 11:15",
+		"jsonWriteContentValueOn:" : "MasashiUmezawa 10/26/2016 11:27",
 		"queries:" : "MasashiUmezawa 10/26/2016 11:14",
 		"tieBreaker" : "MasashiUmezawa 10/26/2016 11:17",
-		"tieBreaker:" : "MasashiUmezawa 10/26/2016 11:16" } }
+		"jsonWriteContentBeginOn:" : "MasashiUmezawa 10/26/2016 11:38",
+		"jsonWriteContentEndOn:" : "MasashiUmezawa 10/26/2016 11:38"
+	},
+	"class" : {
+		"queries:" : "MasashiUmezawa 10/26/2016 11:19"
+	}
+}
