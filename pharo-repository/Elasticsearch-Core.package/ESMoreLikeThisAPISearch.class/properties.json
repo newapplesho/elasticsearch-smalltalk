@@ -1,15 +1,14 @@
 {
-	"category" : "Elasticsearch-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "ESAPISearch",
+	"category" : "Elasticsearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"docId",
-		"docType" ],
+		"docType"
+	],
 	"name" : "ESMoreLikeThisAPISearch",
-	"pools" : [
-		 ],
-	"super" : "ESAPISearch",
-	"type" : "normal" }
+	"type" : "normal"
+}

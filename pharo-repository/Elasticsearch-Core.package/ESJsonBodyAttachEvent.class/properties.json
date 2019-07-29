@@ -1,14 +1,11 @@
 {
-	"category" : "Elasticsearch-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ESJsonBodyAttachEvent",
-	"pools" : [
-		 ],
 	"super" : "ESClientEvent",
-	"type" : "normal" }
+	"category" : "Elasticsearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESJsonBodyAttachEvent",
+	"type" : "normal"
+}

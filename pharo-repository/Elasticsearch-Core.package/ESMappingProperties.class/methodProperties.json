@@ -1,9 +1,10 @@
 {
-	"class" : {
-		 },
 	"instance" : {
+		"jsonContent" : "PaulDeBruicker 9/5/2013 09:24",
 		"addProperty:" : "PaulDeBruicker 5/6/2013 14:58",
 		"initialize" : "PaulDeBruicker 5/6/2013 14:59",
-		"jsonContent" : "PaulDeBruicker 9/5/2013 09:24",
-		"properties" : "PaulDeBruicker 5/6/2013 14:58",
-		"properties:" : "PaulDeBruicker 5/6/2013 14:58" } }
+		"properties:" : "PaulDeBruicker 5/6/2013 14:58",
+		"properties" : "PaulDeBruicker 5/6/2013 14:58"
+	},
+	"class" : { }
+}

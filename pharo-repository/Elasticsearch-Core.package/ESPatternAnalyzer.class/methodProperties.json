@@ -1,8 +1,9 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"flags:" : "PaulDeBruicker 5/6/2013 13:17",
-		"lowercase:" : "PaulDeBruicker 5/6/2013 13:16",
 		"pattern:" : "PaulDeBruicker 5/6/2013 13:17",
-		"type" : "PaulDeBruicker 5/6/2013 13:20" } }
+		"lowercase:" : "PaulDeBruicker 5/6/2013 13:16",
+		"type" : "PaulDeBruicker 5/6/2013 13:20",
+		"flags:" : "PaulDeBruicker 5/6/2013 13:17"
+	},
+	"class" : { }
+}

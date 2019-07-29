@@ -1,14 +1,13 @@
 {
-	"category" : "Elasticsearch-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "PaulDeBruicker 4/24/2013 10:11",
-	"instvars" : [
-		"url" ],
-	"name" : "ESUrl",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Elasticsearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"url"
+	],
+	"name" : "ESUrl",
+	"type" : "normal"
+}

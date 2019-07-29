@@ -1,13 +1,14 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"boostTerms:" : "PaulDeBruicker 4/26/2013 08:36",
-		"maximumDocumentFrequency:" : "PaulDeBruicker 4/26/2013 08:35",
-		"maximumWordLength:" : "PaulDeBruicker 4/26/2013 08:35",
-		"minimumDocumentFrequency:" : "PaulDeBruicker 4/26/2013 08:35",
-		"minimumTermFrequency:" : "PaulDeBruicker 4/26/2013 08:33",
 		"minimumWordLength:" : "PaulDeBruicker 4/26/2013 08:36",
-		"percentTermsToMatch:" : "PaulDeBruicker 4/26/2013 08:33",
+		"maximumDocumentFrequency:" : "PaulDeBruicker 4/26/2013 08:35",
+		"minimumTermFrequency:" : "PaulDeBruicker 4/26/2013 08:33",
+		"stopWords:" : "PaulDeBruicker 4/26/2013 08:34",
+		"minimumDocumentFrequency:" : "PaulDeBruicker 4/26/2013 08:35",
 		"queryType" : "ShoYoshida 1/9/2016 10:30",
-		"stopWords:" : "PaulDeBruicker 4/26/2013 08:34" } }
+		"percentTermsToMatch:" : "PaulDeBruicker 4/26/2013 08:33",
+		"boostTerms:" : "PaulDeBruicker 4/26/2013 08:36",
+		"maximumWordLength:" : "PaulDeBruicker 4/26/2013 08:35"
+	},
+	"class" : { }
+}

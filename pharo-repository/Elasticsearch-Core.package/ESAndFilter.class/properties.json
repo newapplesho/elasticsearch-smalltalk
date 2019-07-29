@@ -1,14 +1,11 @@
 {
-	"category" : "Elasticsearch-Core-Filter",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ESAndFilter",
-	"pools" : [
-		 ],
 	"super" : "ESBooleanFilter",
-	"type" : "normal" }
+	"category" : "Elasticsearch-Core-Filter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESAndFilter",
+	"type" : "normal"
+}

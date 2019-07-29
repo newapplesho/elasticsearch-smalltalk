@@ -1,15 +1,16 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"analyzer:" : "PaulDeBruicker 5/6/2013 14:31",
 		"ignoreAbove:" : "PaulDeBruicker 5/6/2013 14:32",
-		"indexAnalyzer:" : "PaulDeBruicker 5/6/2013 14:31",
-		"indexOptions:" : "PaulDeBruicker 5/6/2013 14:30",
-		"jsonStringContents" : "PaulDeBruicker 9/5/2013 09:24",
-		"omitNorms:" : "PaulDeBruicker 5/6/2013 14:30",
-		"omitTermFreqAndPositions:" : "PaulDeBruicker 5/6/2013 14:30",
-		"positionOffsetGap:" : "PaulDeBruicker 5/6/2013 14:32",
 		"searchAnalyzer:" : "PaulDeBruicker 5/6/2013 14:31",
 		"termVector:" : "PaulDeBruicker 5/6/2013 14:29",
-		"type" : "PaulDeBruicker 5/6/2013 14:40" } }
+		"omitTermFreqAndPositions:" : "PaulDeBruicker 5/6/2013 14:30",
+		"indexOptions:" : "PaulDeBruicker 5/6/2013 14:30",
+		"indexAnalyzer:" : "PaulDeBruicker 5/6/2013 14:31",
+		"jsonStringContents" : "PaulDeBruicker 9/5/2013 09:24",
+		"omitNorms:" : "PaulDeBruicker 5/6/2013 14:30",
+		"type" : "PaulDeBruicker 5/6/2013 14:40",
+		"positionOffsetGap:" : "PaulDeBruicker 5/6/2013 14:32",
+		"analyzer:" : "PaulDeBruicker 5/6/2013 14:31"
+	},
+	"class" : { }
+}

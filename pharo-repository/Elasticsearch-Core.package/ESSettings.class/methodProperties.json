@@ -1,15 +1,16 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"at:" : "minami 6/16/2016 16:54",
-		"at:ifAbsent:" : "minami 6/16/2016 16:54",
-		"at:ifAbsentPut:" : "minami 6/16/2016 16:54",
-		"at:put:" : "minami 6/16/2016 16:54",
 		"hostName" : "minami 6/16/2016 16:56",
-		"hostName:" : "minami 6/16/2016 16:56",
 		"httpClientClassName" : "minami 6/16/2016 17:00",
-		"httpClientClassName:" : "minami 6/16/2016 17:01",
 		"port" : "minami 6/16/2016 17:41",
+		"httpClientClassName:" : "minami 6/16/2016 17:01",
+		"at:put:" : "minami 6/16/2016 16:54",
+		"at:" : "minami 6/16/2016 16:54",
+		"at:ifAbsentPut:" : "minami 6/16/2016 16:54",
+		"at:ifAbsent:" : "minami 6/16/2016 16:54",
+		"hostName:" : "minami 6/16/2016 16:56",
 		"port:" : "minami 6/16/2016 16:57",
-		"settingsDict" : "minami 6/16/2016 16:54" } }
+		"settingsDict" : "minami 6/16/2016 16:54"
+	},
+	"class" : { }
+}

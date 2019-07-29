@@ -1,9 +1,10 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"filter:" : "ShoYoshida 1/9/2016 12:25",
-		"jsonWriteContentBeginOn:" : "ShoYoshida 1/9/2016 12:13",
-		"jsonWriteContentEndOn:" : "ShoYoshida 1/9/2016 12:13",
 		"jsonWriteContentValueOn:" : "ShoYoshida 1/9/2016 12:27",
-		"queryType" : "ShoYoshida 1/9/2016 12:13" } }
+		"filter:" : "ShoYoshida 1/9/2016 12:25",
+		"queryType" : "ShoYoshida 1/9/2016 12:13",
+		"jsonWriteContentBeginOn:" : "ShoYoshida 1/9/2016 12:13",
+		"jsonWriteContentEndOn:" : "ShoYoshida 1/9/2016 12:13"
+	},
+	"class" : { }
+}

@@ -1,14 +1,11 @@
 {
-	"category" : "Elasticsearch-Core-Aggregations",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ESMinAggregation",
-	"pools" : [
-		 ],
 	"super" : "ESAggregation",
-	"type" : "normal" }
+	"category" : "Elasticsearch-Core-Aggregations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESMinAggregation",
+	"type" : "normal"
+}

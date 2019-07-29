@@ -1,14 +1,13 @@
 {
-	"category" : "Elasticsearch-Core-QueryDSL",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"fieldName" ],
-	"name" : "ESSortCriteria",
-	"pools" : [
-		 ],
 	"super" : "ESQuery",
-	"type" : "normal" }
+	"category" : "Elasticsearch-Core-QueryDSL",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fieldName"
+	],
+	"name" : "ESSortCriteria",
+	"type" : "normal"
+}

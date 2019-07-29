@@ -1,13 +1,14 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"filter:" : "ShoYoshida 1/11/2016 18:59",
-		"jsonWriteContentBeginOn:" : "ShoYoshida 1/11/2016 18:57",
 		"jsonWriteContentEndOn:" : "ShoYoshida 1/11/2016 18:57",
-		"jsonWriteContentValueOn:" : "ShoYoshida 1/11/2016 19:14",
-		"minimum_should_match:" : "ShoYoshida 1/11/2016 19:00",
 		"must:" : "ShoYoshida 1/11/2016 18:59",
-		"must_not:" : "ShoYoshida 1/11/2016 18:59",
+		"jsonWriteContentValueOn:" : "ShoYoshida 1/11/2016 19:14",
+		"should:" : "ShoYoshida 1/11/2016 19:00",
+		"filter:" : "ShoYoshida 1/11/2016 18:59",
 		"queryType" : "ShoYoshida 1/11/2016 18:57",
-		"should:" : "ShoYoshida 1/11/2016 19:00" } }
+		"must_not:" : "ShoYoshida 1/11/2016 18:59",
+		"jsonWriteContentBeginOn:" : "ShoYoshida 1/11/2016 18:57",
+		"minimum_should_match:" : "ShoYoshida 1/11/2016 19:00"
+	},
+	"class" : { }
+}
