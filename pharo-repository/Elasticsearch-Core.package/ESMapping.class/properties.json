@@ -1,15 +1,14 @@
 {
-	"category" : "Elasticsearch-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "ESObject",
+	"category" : "Elasticsearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"analysis",
-		"properties" ],
+		"properties"
+	],
 	"name" : "ESMapping",
-	"pools" : [
-		 ],
-	"super" : "ESObject",
-	"type" : "normal" }
+	"type" : "normal"
+}

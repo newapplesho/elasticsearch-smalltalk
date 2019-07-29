@@ -1,6 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"filterType" : "ShoYoshida 1/12/2016 21:38",
-		"onField:forValue:" : "ShoYoshida 1/12/2016 21:38" } }
+		"onField:forValue:" : "ShoYoshida 1/12/2016 21:38",
+		"filterType" : "ShoYoshida 1/12/2016 21:38"
+	},
+	"class" : { }
+}

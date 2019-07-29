@@ -1,15 +1,14 @@
 {
-	"category" : "Elasticsearch-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "MasashiUmezawa 6/10/2015 18:19",
+	"super" : "ESObject",
+	"category" : "Elasticsearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"resultStream",
-		"searcher" ],
+		"searcher"
+	],
 	"name" : "ESSearchResultEnumerator",
-	"pools" : [
-		 ],
-	"super" : "ESObject",
-	"type" : "variable" }
+	"type" : "variable"
+}

@@ -1,14 +1,11 @@
 {
-	"category" : "Elasticsearch-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "PaulDeBruicker 4/24/2013 10:12",
-	"instvars" : [
-		 ],
-	"name" : "ESDocumentIdUnixSecondsStrategy",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Elasticsearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESDocumentIdUnixSecondsStrategy",
+	"type" : "normal"
+}

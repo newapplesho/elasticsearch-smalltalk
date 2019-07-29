@@ -1,10 +1,10 @@
 {
-	"category" : "Elasticsearch-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "PaulDeBruicker 4/24/2013 10:18",
+	"super" : "ESObject",
+	"category" : "Elasticsearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"index",
 		"requestBodyJson",
@@ -16,9 +16,8 @@
 		"numberOfHits",
 		"aggregations",
 		"aggregateResult",
-		"uriParameters" ],
+		"uriParameters"
+	],
 	"name" : "ESSearch",
-	"pools" : [
-		 ],
-	"super" : "ESObject",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,8 +1,9 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"addFilter:" : "ShoYoshida 1/11/2016 11:54",
 		"filterList" : "ShoYoshida 1/11/2016 14:49",
 		"filterList:" : "ShoYoshida 1/11/2016 14:49",
-		"jsonWriteContentValueOn:" : "ShoYoshida 1/11/2016 19:40" } }
+		"jsonWriteContentValueOn:" : "ShoYoshida 1/11/2016 19:40",
+		"addFilter:" : "ShoYoshida 1/11/2016 11:54"
+	},
+	"class" : { }
+}

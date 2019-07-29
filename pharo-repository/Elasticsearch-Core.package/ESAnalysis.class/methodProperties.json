@@ -1,23 +1,24 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"addAnalyzer:" : "PaulDeBruicker 5/6/2013 13:00",
-		"addCharFilter:" : "PaulDeBruicker 5/6/2013 13:36",
-		"addFilter:" : "PaulDeBruicker 5/6/2013 15:43",
-		"addTokenizer:" : "PaulDeBruicker 5/6/2013 13:01",
-		"analyzers" : "PaulDeBruicker 5/6/2013 13:00",
-		"analyzers:" : "PaulDeBruicker 5/6/2013 13:00",
 		"charFilters" : "PaulDeBruicker 5/6/2013 13:35",
-		"charFilters:" : "PaulDeBruicker 5/6/2013 13:35",
-		"filters" : "PaulDeBruicker 5/6/2013 13:00",
-		"filters:" : "PaulDeBruicker 5/6/2013 13:00",
-		"hasAnalyzers" : "PaulDeBruicker 5/6/2013 15:30",
-		"hasCharFilter" : "PaulDeBruicker 5/6/2013 15:29",
-		"hasFilter" : "PaulDeBruicker 5/6/2013 15:30",
-		"hasTokenizer" : "PaulDeBruicker 5/6/2013 15:30",
 		"initialize" : "PaulDeBruicker 5/6/2013 13:36",
+		"analyzers" : "PaulDeBruicker 5/6/2013 13:00",
+		"addTokenizer:" : "PaulDeBruicker 5/6/2013 13:01",
+		"addCharFilter:" : "PaulDeBruicker 5/6/2013 13:36",
+		"filters" : "PaulDeBruicker 5/6/2013 13:00",
+		"addFilter:" : "PaulDeBruicker 5/6/2013 15:43",
+		"charFilters:" : "PaulDeBruicker 5/6/2013 13:35",
+		"hasAnalyzers" : "PaulDeBruicker 5/6/2013 15:30",
+		"addAnalyzer:" : "PaulDeBruicker 5/6/2013 13:00",
 		"jsonContent" : "PaulDeBruicker 9/5/2013 09:24",
-		"jsonStringFromCollection:" : "PaulDeBruicker 9/5/2013 09:24",
+		"tokenizers:" : "PaulDeBruicker 5/6/2013 13:00",
+		"hasCharFilter" : "PaulDeBruicker 5/6/2013 15:29",
+		"hasTokenizer" : "PaulDeBruicker 5/6/2013 15:30",
 		"tokenizers" : "PaulDeBruicker 5/6/2013 13:00",
-		"tokenizers:" : "PaulDeBruicker 5/6/2013 13:00" } }
+		"analyzers:" : "PaulDeBruicker 5/6/2013 13:00",
+		"filters:" : "PaulDeBruicker 5/6/2013 13:00",
+		"hasFilter" : "PaulDeBruicker 5/6/2013 15:30",
+		"jsonStringFromCollection:" : "PaulDeBruicker 9/5/2013 09:24"
+	},
+	"class" : { }
+}

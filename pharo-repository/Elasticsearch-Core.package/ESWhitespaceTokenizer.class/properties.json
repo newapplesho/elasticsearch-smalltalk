@@ -1,14 +1,11 @@
 {
-	"category" : "Elasticsearch-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ESWhitespaceTokenizer",
-	"pools" : [
-		 ],
 	"super" : "ESTokenizer",
-	"type" : "normal" }
+	"category" : "Elasticsearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESWhitespaceTokenizer",
+	"type" : "normal"
+}

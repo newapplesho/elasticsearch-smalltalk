@@ -1,16 +1,17 @@
 {
-	"class" : {
-		 },
 	"instance" : {
 		"AND:" : "ShoYoshida 1/11/2016 14:54",
-		"OR:" : "ShoYoshida 1/11/2016 14:54",
-		"cache:" : "ShoYoshida 1/11/2016 14:30",
 		"filterType" : "PaulDeBruicker 1/7/2014 16:07",
-		"jsonWriteContentBeginOn:" : "ShoYoshida 1/11/2016 19:38",
-		"jsonWriteContentEndOn:" : "ShoYoshida 1/11/2016 19:38",
-		"jsonWriteContentOn:" : "ShoYoshida 1/11/2016 11:51",
-		"jsonWriteContentValueOn:" : "ShoYoshida 1/11/2016 19:39",
 		"jsonWriteOn:" : "ShoYoshida 1/11/2016 11:51",
+		"jsonWriteContentBeginOn:" : "ShoYoshida 1/11/2016 19:38",
+		"cache:" : "ShoYoshida 1/11/2016 14:30",
+		"jsonWriteContentOn:" : "ShoYoshida 1/11/2016 11:51",
 		"modifiers" : "ShoYoshida 1/11/2016 11:32",
+		"not" : "ShoYoshida 6/22/2015 11:31",
+		"jsonWriteContentValueOn:" : "ShoYoshida 1/11/2016 19:39",
+		"jsonWriteContentEndOn:" : "ShoYoshida 1/11/2016 19:38",
 		"modifiers:" : "ShoYoshida 1/11/2016 11:32",
-		"not" : "ShoYoshida 6/22/2015 11:31" } }
+		"OR:" : "ShoYoshida 1/11/2016 14:54"
+	},
+	"class" : { }
+}

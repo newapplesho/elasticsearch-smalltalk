@@ -1,6 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
 		"format:" : "PaulDeBruicker 5/6/2013 14:45",
-		"type" : "PaulDeBruicker 5/6/2013 14:49" } }
+		"type" : "PaulDeBruicker 5/6/2013 14:49"
+	},
+	"class" : { }
+}

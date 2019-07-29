@@ -1,15 +1,14 @@
 {
-	"category" : "Elasticsearch-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "ESMappingProperty",
+	"category" : "Elasticsearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"includeDefaultInAll",
-		"fields" ],
+		"fields"
+	],
 	"name" : "ESMultiFieldMappingProperty",
-	"pools" : [
-		 ],
-	"super" : "ESMappingProperty",
-	"type" : "normal" }
+	"type" : "normal"
+}

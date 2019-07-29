@@ -1,17 +1,18 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"boost:" : "PaulDeBruicker 5/6/2013 14:44",
+		"type:" : "PaulDeBruicker 5/6/2013 15:00",
 		"ignoreMalformed:" : "PaulDeBruicker 5/6/2013 14:46",
-		"includeInAll:" : "PaulDeBruicker 5/6/2013 14:44",
-		"index:" : "PaulDeBruicker 5/6/2013 14:24",
-		"indexName:" : "PaulDeBruicker 5/6/2013 14:23",
-		"initialize" : "PaulDeBruicker 9/5/2013 09:24",
-		"jsonContent" : "PaulDeBruicker 5/6/2013 17:05",
-		"modifiers" : "PaulDeBruicker 5/6/2013 15:41",
-		"nullValue:" : "PaulDeBruicker 5/6/2013 14:43",
 		"precisionStep:" : "PaulDeBruicker 5/6/2013 14:46",
+		"boost:" : "PaulDeBruicker 5/6/2013 14:44",
+		"initialize" : "PaulDeBruicker 9/5/2013 09:24",
 		"store:" : "PaulDeBruicker 5/6/2013 14:24",
+		"nullValue:" : "PaulDeBruicker 5/6/2013 14:43",
+		"modifiers" : "PaulDeBruicker 5/6/2013 15:41",
+		"jsonContent" : "PaulDeBruicker 5/6/2013 17:05",
+		"indexName:" : "PaulDeBruicker 5/6/2013 14:23",
 		"type" : "PaulDeBruicker 5/6/2013 15:00",
-		"type:" : "PaulDeBruicker 5/6/2013 15:00" } }
+		"index:" : "PaulDeBruicker 5/6/2013 14:24",
+		"includeInAll:" : "PaulDeBruicker 5/6/2013 14:44"
+	},
+	"class" : { }
+}
