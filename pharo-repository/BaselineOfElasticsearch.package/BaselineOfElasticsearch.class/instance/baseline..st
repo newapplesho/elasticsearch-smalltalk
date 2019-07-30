@@ -10,13 +10,7 @@ baseline: spec
 							spec
 								className: 'ConfigurationOfZincHTTPComponents';
 								versionString: #stable;
-								repository: 'http://mc.stfx.eu/ZincHTTPComponents' ];
-				project: 'JSON'
-					with: [ 
-							spec
-								className: 'ConfigurationOfJSON';
-								versionString: #stable;
-								repository: 'http://smalltalkhub.com/mc/PharoExtras/JSON/main' ].
+								repository: 'http://mc.stfx.eu/ZincHTTPComponents' ].
 			spec
-				package: 'Elasticsearch-Core' with: [ spec requires: #('ZincHTTPComponents' 'JSON') ];
+				package: 'Elasticsearch-Core' with: [ spec requires: #('ZincHTTPComponents') ];
 				package: 'Elasticsearch-Tests' with: [ spec requires: #('Elasticsearch-Core') ].]

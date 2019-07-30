@@ -1,3 +1,3 @@
 json
 responseIsError: someJson
-	^ (someJson at: 'error') notNil
+	^ someJson includesKey: 'error'

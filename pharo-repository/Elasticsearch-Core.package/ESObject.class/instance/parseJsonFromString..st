@@ -1,3 +1,3 @@
 json
 parseJsonFromString: aString
-	^ Json readFrom: aString readStream
+	^ STONJSON fromString: aString
