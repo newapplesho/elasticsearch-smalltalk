@@ -4,6 +4,7 @@
 		"parseJsonFromString:" : "PaulDeBruicker 4/22/2013 14:31",
 		"logToTranscript" : "MasashiUmezawa 6/10/2015 14:08",
 		"name" : "PaulDeBruicker 4/21/2013 21:20",
+		"systemVersion" : "MasashiUmezawa 7/29/2019 17:40",
 		"name:" : "PaulDeBruicker 4/21/2013 21:20",
 		"responseIsError:" : "PaulDeBruicker 4/23/2013 14:59",
 		"errorMessageFor:" : "PaulDeBruicker 4/23/2013 15:07",
@@ -11,7 +12,8 @@
 		"settings:" : "minami 6/16/2016 16:51",
 		"httpClient" : "minami 6/16/2016 17:27",
 		"baseUrl" : "PaulDeBruicker 4/21/2013 21:23",
-		"loggingOff" : "ShoYoshida 6/12/2015 18:06"
+		"loggingOff" : "ShoYoshida 6/12/2015 18:06",
+		"systemInformation" : "MasashiUmezawa 7/29/2019 17:17"
 	},
 	"class" : { }
 }
