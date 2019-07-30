@@ -1,3 +1,3 @@
 logging
 loggingOff
-	^self client loggingOff
+	^ self underlyingClient loggingOff

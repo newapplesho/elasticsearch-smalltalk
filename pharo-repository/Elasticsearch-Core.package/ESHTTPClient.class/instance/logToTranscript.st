@@ -1,3 +1,3 @@
 logging
 logToTranscript
-	^self client logToTranscript
+	^ self underlyingClient logToTranscript
