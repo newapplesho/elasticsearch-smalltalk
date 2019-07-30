@@ -1,12 +1,12 @@
 parsing
 parseContentFromJson: aJsonObject fromIndex: anESIndex
 	self
-		id: (aJsonObject at: '_id');
+		id: (aJsonObject at: '_id' ifAbsent:[]);
 		index: anESIndex;
-		type: (aJsonObject at: '_type');
-		version: (aJsonObject at: '_version');
-		score: (aJsonObject at: '_score').
-	(aJsonObject at: '_source') 
+		type: (aJsonObject at: '_type' ifAbsent:[]);
+		version: (aJsonObject at: '_version' ifAbsent:[]);
+		score: (aJsonObject at: '_score' ifAbsent:[]).
+	(aJsonObject at: '_source' ifAbsent:[#()]) 
 		keysAndValuesDo: [ :selector :value | 
 			| newValue |
 			newValue := value.
