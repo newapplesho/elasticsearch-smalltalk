@@ -1,6 +1,8 @@
 http-method
-put: aUrl data: aByteString
+put: aUrl data: data
+	| conts |
+	conts := self jsonStringFrom: data.
 	^ self underlyingClientDo: [ :cli |
-		cli logLevel > 2 ifTrue: [self emitJsonBodyAttachEvent: aByteString].
-		cli put: aUrl url contents: aByteString
+		cli logLevel > 2 ifTrue: [self emitJsonBodyAttachEvent: conts].
+		cli put: aUrl url contents: conts
 	]

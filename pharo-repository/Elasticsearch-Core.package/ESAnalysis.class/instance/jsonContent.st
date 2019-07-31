@@ -1,7 +1,7 @@
 json
 jsonContent
 	| d1 |
-	d1 := JsonObject new.
+	d1 := Dictionary new.
 	self hasAnalyzers
 		ifTrue: [ d1 at: 'analyzer' put: (self jsonStringFromCollection: self analyzers) ].
 	self hasTokenizer

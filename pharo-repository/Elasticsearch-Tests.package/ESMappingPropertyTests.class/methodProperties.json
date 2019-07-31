@@ -1,6 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"testMultiFieldProperty" : "PaulDeBruicker 9/5/2013 09:28",
-		"testStringProperty" : "PaulDeBruicker 9/5/2013 09:28" } }
+		"testMultiFieldProperty" : "MasashiUmezawa 7/31/2019 19:37",
+		"testStringProperty" : "MasashiUmezawa 7/31/2019 19:38"
+	},
+	"class" : { }
+}

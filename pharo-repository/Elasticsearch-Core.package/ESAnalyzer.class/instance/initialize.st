@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initialize
 	super initialize.
-	modifiers := JsonObject new
+	modifiers := Dictionary new

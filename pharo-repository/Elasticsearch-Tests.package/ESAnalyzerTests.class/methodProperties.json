@@ -1,6 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"testCustomAnalyzer" : "PaulDeBruicker 9/5/2013 09:28",
-		"testStandardAnalyzer" : "PaulDeBruicker 9/5/2013 09:28" } }
+		"testStandardAnalyzer" : "MasashiUmezawa 7/31/2019 19:36",
+		"testCustomAnalyzer" : "MasashiUmezawa 7/31/2019 19:36"
+	},
+	"class" : { }
+}

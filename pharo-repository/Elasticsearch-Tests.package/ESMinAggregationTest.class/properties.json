@@ -1,14 +1,11 @@
 {
-	"category" : "Elasticsearch-Tests-Aggregations",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
-	"name" : "ESMinAggregationTest",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "Elasticsearch-Tests-Aggregations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESMinAggregationTest",
+	"type" : "normal"
+}

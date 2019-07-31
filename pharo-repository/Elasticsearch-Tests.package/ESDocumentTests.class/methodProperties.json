@@ -1,6 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"testAddDocument" : "PaulDeBruicker 4/22/2013 17:13",
-		"testGetDocument" : "pad 09/05/2013 10:57" } }
+		"testGetDocument" : "pad 09/05/2013 10:57",
+		"testAddDocument" : "PaulDeBruicker 4/22/2013 17:13"
+	},
+	"class" : { }
+}
