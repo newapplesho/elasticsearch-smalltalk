@@ -10,5 +10,5 @@ testCustomAnalyzer
 	self
 		assert: analyzer jsonContent
 		equals:
-			(STONJSON fromString:
+			(NeoJSONReader fromString:
 				 '{"type":"custom","tokenizer":"standard","filter":["my_nGram"],"char_filter":["myCharFilter"]}')

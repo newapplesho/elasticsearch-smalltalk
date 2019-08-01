@@ -7,4 +7,4 @@ testBasic
 	analysis := ESAnalysis new
 		addAnalyzer: analyzer;
 		yourself.
-	self assert: analysis jsonContent equals: (STONJSON fromString:'{"analyzer":{"std":{"type":"standard"}}}')
+	self assert: analysis jsonContent equals: (NeoJSONReader fromString:'{"analyzer":{"std":{"type":"standard"}}}')

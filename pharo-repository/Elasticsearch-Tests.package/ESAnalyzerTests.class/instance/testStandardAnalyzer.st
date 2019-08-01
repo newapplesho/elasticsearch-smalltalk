@@ -2,4 +2,4 @@ as yet unclassified
 testStandardAnalyzer
 	| analyzer |
 	analyzer := ESStandardAnalyzer new name: 'std'.
-	self assert: analyzer jsonContent equals: (STONJSON fromString:'{"type":"standard"}')
+	self assert: analyzer jsonContent equals: (NeoJSONReader fromString:'{"type":"standard"}')

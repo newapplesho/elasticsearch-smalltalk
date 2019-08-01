@@ -1,12 +1,12 @@
 printing
 jsonWriteContentValueOn: aStream
 
-	self modifiers ifEmpty:[ ^ self field jsonWriteOn: aStream. ].	
+	self modifiers ifEmpty:[ ^aStream writer nextPut:  self field].	
 	
 	aStream nextPut: ${.
-	self field jsonWriteOn: aStream.
+	aStream writer nextPut: self field.
 	aStream nextPut: $:.
-	self modifiers jsonWriteOn: aStream.
+	aStream writer nextPut: self modifiers.
 
 	aStream nextPut: $}.
 	

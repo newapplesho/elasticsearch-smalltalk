@@ -10,4 +10,4 @@ testJsonQuery
 	search query: fuzzyLikeThisQuery.
 	result := search jsonQuery.
 	
-	self assert: result equals: '{"query":{"fuzzy_like_this":{"like_text":"tuna","fields":["title","description"]}}}'.
+	self assert: result equals: '{"query":{"fuzzy_like_this":{"fields":["title","description"],"like_text":"tuna"}}}'.

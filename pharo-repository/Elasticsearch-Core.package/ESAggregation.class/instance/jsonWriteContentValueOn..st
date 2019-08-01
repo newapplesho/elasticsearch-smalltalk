@@ -1,7 +1,7 @@
 printing
 jsonWriteContentValueOn: aStream
 	aStream nextPut: ${.
-	self type jsonWriteOn: aStream.
+	aStream writer nextPut: self type.
 	aStream nextPut: $:.
-	self modifiers jsonWriteOn: aStream.
+	aStream writer nextPut: self modifiers.
 	aStream nextPut: $}.

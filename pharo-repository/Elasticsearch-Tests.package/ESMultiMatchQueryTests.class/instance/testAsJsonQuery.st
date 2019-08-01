@@ -5,4 +5,4 @@ testAsJsonQuery
 	query query:'tuna'.
 	query fields: #('title' 'description').
 	
-	self assert: query asJsonString equals: '{"multi_match":{"fields":["title","description"],"query":"tuna"}}'.
+	self assert: query asJsonString equals: '{"multi_match":{"query":"tuna","fields":["title","description"]}}'.

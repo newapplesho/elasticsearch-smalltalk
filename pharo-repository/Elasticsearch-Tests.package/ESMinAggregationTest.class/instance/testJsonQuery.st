@@ -8,4 +8,4 @@ testJsonQuery
 	minAggregation := ESMinAggregation new field:'price'; aggregationName: 'price'; yourself.
 	search query: query.
 	search addAggregation: minAggregation.
-	self assert: search jsonQuery equals: '{"aggregations":{"price":{"min":{"field":"price"}}},"query":{"match_all":{}}}'.
+	self assert: search jsonQuery equals: '{"query":{"match_all":{}},"aggregations":{"price":{"min":{"field":"price"}}}}'.
