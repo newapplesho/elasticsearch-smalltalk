@@ -10,4 +10,4 @@ testJsonQuery
 	search addQuery: query.
 	result := search jsonQuery.
 	
-	self assert: result equals: '{"query":{"multi_match":{"fields":["title","description"],"query":"tuna"}}}'.
+	self assert: result equals: '{"query":{"multi_match":{"query":"tuna","fields":["title","description"]}}}'.

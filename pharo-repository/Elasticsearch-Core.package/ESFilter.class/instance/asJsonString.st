@@ -1,0 +1,3 @@
+printing
+asJsonString
+	^self jsonStringContents 

@@ -4,4 +4,4 @@ testWhitespace
 	wsp := ESWhitespaceTokenizer new
 		name: 'whitespace_tokenizer';
 		yourself.
-	self assert: wsp jsonContent equals: (STONJSON fromString:'{"type":"whitespace"}')
+	self assert: wsp jsonContent equals: (NeoJSONReader fromString:'{"type":"whitespace"}')

@@ -1,3 +1,3 @@
 json
 parseJsonFromString: aString
-	^ STONJSON fromString: aString
+	^ NeoJSONReader fromString: aString

@@ -9,4 +9,4 @@ testStringProperty
 	self
 		assert: prop jsonContent
 		equals:
-			(STONJSON fromString: '{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}')
+			(NeoJSONReader fromString: '{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}')
