@@ -1,14 +1,11 @@
 {
-	"category" : "Elasticsearch-Tests-Filter",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ESOrFilterTest",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "Elasticsearch-Tests-Filter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESOrFilterTest",
+	"type" : "normal"
+}

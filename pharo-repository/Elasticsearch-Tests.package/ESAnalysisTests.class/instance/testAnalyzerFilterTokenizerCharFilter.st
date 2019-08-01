@@ -7,4 +7,4 @@ testAnalyzerFilterTokenizerCharFilter
 	analysis := ESAnalysis new
 		addAnalyzer: analyzer;
 		yourself.
-	self assert: analysis jsonContent equals: (Json readFrom: '{"analyzer":{"std":{"type":"standard"}}}' readStream)
+	self assert: analysis jsonContent equals: (STONJSON fromString: '{"analyzer":{"std":{"type":"standard"}}}')

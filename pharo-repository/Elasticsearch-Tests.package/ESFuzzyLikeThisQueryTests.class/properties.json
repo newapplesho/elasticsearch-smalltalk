@@ -1,14 +1,11 @@
 {
-	"category" : "Elasticsearch-Tests-QueryDSL",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ESFuzzyLikeThisQueryTests",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "Elasticsearch-Tests-QueryDSL",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESFuzzyLikeThisQueryTests",
+	"type" : "normal"
+}

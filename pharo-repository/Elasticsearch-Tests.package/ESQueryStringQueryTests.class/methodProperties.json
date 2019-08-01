@@ -1,6 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"testAsJsonString" : "ShoYoshida 1/9/2016 11:18",
-		"testSimpleStringQueryAsURIRequest" : "ShoYoshida 1/9/2016 10:58" } }
+		"testSimpleStringQueryAsURIRequest" : "ShoYoshida 1/9/2016 10:58",
+		"testAsJsonString" : "ShoYoshida 1/9/2016 11:18"
+	},
+	"class" : { }
+}

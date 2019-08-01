@@ -1,8 +1,9 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"testAsJsonString" : "ShoYoshida 1/9/2016 11:16",
+		"testSimpleJson" : "ShoYoshida 1/9/2016 11:15",
 		"testJsonQuery" : "ShoYoshida 1/9/2016 11:16",
 		"testModifiedJson" : "ShoYoshida 1/9/2016 11:16",
-		"testSimpleJson" : "ShoYoshida 1/9/2016 11:15" } }
+		"testAsJsonString" : "ShoYoshida 1/9/2016 11:16"
+	},
+	"class" : { }
+}

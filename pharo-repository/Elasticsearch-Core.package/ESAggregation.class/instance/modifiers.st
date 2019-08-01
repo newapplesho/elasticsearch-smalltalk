@@ -1,3 +1,3 @@
 accessing
 modifiers
-	^ modifiers ifNil:[ modifiers := JsonObject new]
+	^ modifiers ifNil:[ modifiers := Dictionary new]

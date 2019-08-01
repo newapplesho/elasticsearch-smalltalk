@@ -1,8 +1,9 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"deleteIndex" : "PaulDeBruicker 4/22/2013 14:46",
+		"tearDown" : "PaulDeBruicker 4/22/2013 14:46",
 		"indexName" : "PaulDeBruicker 4/22/2013 14:46",
-		"setUp" : "PaulDeBruicker 4/22/2013 14:46",
-		"tearDown" : "PaulDeBruicker 4/22/2013 14:46" } }
+		"deleteIndex" : "PaulDeBruicker 4/22/2013 14:46",
+		"setUp" : "PaulDeBruicker 4/22/2013 14:46"
+	},
+	"class" : { }
+}

@@ -1,14 +1,11 @@
 {
-	"category" : "Elasticsearch-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ESURISearchTests",
-	"pools" : [
-		 ],
 	"super" : "ESSearchTests",
-	"type" : "normal" }
+	"category" : "Elasticsearch-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESURISearchTests",
+	"type" : "normal"
+}

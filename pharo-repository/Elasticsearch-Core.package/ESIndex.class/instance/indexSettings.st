@@ -1,4 +1,4 @@
-initialization
+accessing
 indexSettings
 	^ String
 		streamContents: [ :s | 

@@ -1,3 +1,3 @@
 accessing
 underlyingClient
-	^ client ifNil: [ client := self defaultUnderlyingClientClass new]
+	^ underlyingClient ifNil: [ underlyingClient := self newUnderlyingClient]
