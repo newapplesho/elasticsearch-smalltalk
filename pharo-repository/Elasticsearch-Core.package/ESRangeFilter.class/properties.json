@@ -1,16 +1,15 @@
 {
-	"category" : "Elasticsearch-Core-Filter",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "ESFilter",
+	"category" : "Elasticsearch-Core-Filter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"field",
 		"from",
-		"to" ],
+		"to"
+	],
 	"name" : "ESRangeFilter",
-	"pools" : [
-		 ],
-	"super" : "ESFilter",
-	"type" : "normal" }
+	"type" : "normal"
+}

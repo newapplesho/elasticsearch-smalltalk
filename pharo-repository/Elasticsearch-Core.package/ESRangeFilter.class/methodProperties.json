@@ -1,12 +1,15 @@
 {
-	"class" : {
-		"onField:" : "ShoYoshida 7/16/2015 21:08" },
 	"instance" : {
-		"field" : "ShoYoshida 7/16/2015 21:03",
-		"field:" : "ShoYoshida 7/16/2015 21:03",
+		"lte:" : "ShoYoshida 1/11/2016 19:36",
 		"filterType" : "ShoYoshida 7/16/2015 19:01",
-		"gt:" : "ShoYoshida 1/11/2016 19:35",
-		"gte:" : "ShoYoshida 1/11/2016 19:35",
 		"jsonWriteContentValueOn:" : "ShoYoshida 1/11/2016 19:42",
 		"lt:" : "ShoYoshida 1/11/2016 19:36",
-		"lte:" : "ShoYoshida 1/11/2016 19:36" } }
+		"gte:" : "ShoYoshida 1/11/2016 19:35",
+		"gt:" : "ShoYoshida 1/11/2016 19:35",
+		"field:" : "ShoYoshida 7/16/2015 21:03",
+		"field" : "ShoYoshida 7/16/2015 21:03"
+	},
+	"class" : {
+		"onField:" : "ShoYoshida 7/16/2015 21:08"
+	}
+}

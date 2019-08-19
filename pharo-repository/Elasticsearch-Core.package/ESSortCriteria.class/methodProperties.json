@@ -1,15 +1,16 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"fieldName" : "ShoYoshida 1/11/2016 10:38",
+		"useMax" : "PaulDeBruicker 4/27/2013 08:51",
+		"useAvg" : "PaulDeBruicker 4/27/2013 08:51",
+		"sortDescending" : "ShoYoshida 1/11/2016 10:42",
+		"sortAscending" : "ShoYoshida 1/11/2016 10:42",
+		"useSum" : "PaulDeBruicker 4/27/2013 08:51",
+		"mode:" : "ShoYoshida 1/11/2016 10:57",
 		"fieldName:" : "ShoYoshida 1/11/2016 10:38",
 		"jsonWriteContentValueOn:" : "ShoYoshida 1/11/2016 10:52",
+		"fieldName" : "ShoYoshida 1/11/2016 10:38",
 		"missing:" : "ShoYoshida 1/11/2016 11:05",
-		"mode:" : "ShoYoshida 1/11/2016 10:57",
-		"sortAscending" : "ShoYoshida 1/11/2016 10:42",
-		"sortDescending" : "ShoYoshida 1/11/2016 10:42",
-		"useAvg" : "PaulDeBruicker 4/27/2013 08:51",
-		"useMax" : "PaulDeBruicker 4/27/2013 08:51",
-		"useMin" : "PaulDeBruicker 4/27/2013 08:50",
-		"useSum" : "PaulDeBruicker 4/27/2013 08:51" } }
+		"useMin" : "PaulDeBruicker 4/27/2013 08:50"
+	},
+	"class" : { }
+}

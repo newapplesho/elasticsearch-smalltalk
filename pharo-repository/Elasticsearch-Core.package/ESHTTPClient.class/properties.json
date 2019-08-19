@@ -1,14 +1,15 @@
 {
+	"commentStamp" : "PaulDeBruicker 4/24/2013 10:11",
+	"super" : "Object",
 	"category" : "Elasticsearch-Core",
 	"classinstvars" : [
-		"default" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "PaulDeBruicker 4/24/2013 10:11",
+		"default"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
-		"client" ],
+		"underlyingClient"
+	],
 	"name" : "ESHTTPClient",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

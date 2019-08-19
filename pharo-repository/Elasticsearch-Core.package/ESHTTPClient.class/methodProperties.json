@@ -1,26 +1,31 @@
 {
-	"class" : {
-		"defaultHostName" : "PaulDeBruicker 4/21/2013 21:27",
-		"defaultHttpClient" : "PaulDeBruicker 4/21/2013 20:34",
-		"defaultPort" : "PaulDeBruicker 4/21/2013 21:27",
-		"httpClient" : "pad 09/05/2013 10:23",
-		"resetClient" : "pad 09/05/2013 10:22" },
 	"instance" : {
-		"client" : "PaulDeBruicker 4/21/2013 21:37",
-		"defaultUrl" : "PaulDeBruicker 4/24/2013 09:59",
-		"delete:" : "PaulDeBruicker 4/24/2013 10:09",
+		"loggingOff" : "KazunoriUeda 7/8/2019 10:18",
+		"head:" : "KazunoriUeda 7/8/2019 10:11",
 		"emitJsonBodyAttachEvent:" : "MasashiUmezawa 6/10/2015 14:30",
 		"emitJsonResponseReceivedEvent:" : "MasashiUmezawa 6/10/2015 14:59",
-		"get:" : "MasashiUmezawa 6/10/2015 14:56",
-		"get:data:" : "MasashiUmezawa 6/10/2015 15:02",
-		"head:" : "PaulDeBruicker 4/24/2013 10:08",
 		"hostName" : "PaulDeBruicker 4/21/2013 21:26",
-		"indexExistsAt:" : "PaulDeBruicker 4/24/2013 10:08",
-		"logToTranscript" : "MasashiUmezawa 6/10/2015 14:09",
-		"loggingOff" : "ShoYoshida 6/12/2015 18:03",
-		"newLogEvent:" : "MasashiUmezawa 6/10/2015 14:17",
+		"delete:" : "KazunoriUeda 7/8/2019 10:37",
+		"put:data:" : "KazunoriUeda 7/8/2019 15:35",
+		"defaultUrl" : "PaulDeBruicker 4/24/2013 09:59",
+		"newLogEvent:" : "KazunoriUeda 7/8/2019 10:17",
+		"underlyingClient" : "KazunoriUeda 7/8/2019 10:04",
+		"underlyingClientDo:" : "KazunoriUeda 7/8/2019 10:07",
 		"port" : "PaulDeBruicker 4/21/2013 21:26",
-		"post:data:" : "MasashiUmezawa 6/10/2015 14:31",
-		"put:data:" : "PaulDeBruicker 4/24/2013 10:08",
-		"typeExistsAt:" : "PaulDeBruicker 4/24/2013 10:08",
-		"url" : "PaulDeBruicker 4/24/2013 09:55" } }
+		"defaultUnderlyingClientClass" : "KazunoriUeda 7/8/2019 10:03",
+		"get:" : "KazunoriUeda 7/8/2019 10:36",
+		"logToTranscript" : "KazunoriUeda 7/8/2019 10:18",
+		"typeExistsAt:" : "KazunoriUeda 7/8/2019 10:19",
+		"indexExistsAt:" : "KazunoriUeda 7/8/2019 10:16",
+		"url" : "PaulDeBruicker 4/24/2013 09:55",
+		"get:data:" : "KazunoriUeda 7/8/2019 10:11",
+		"post:data:" : "KazunoriUeda 7/8/2019 15:12"
+	},
+	"class" : {
+		"httpClient" : "pad 09/05/2013 10:23",
+		"resetClient" : "pad 09/05/2013 10:22",
+		"defaultPort" : "PaulDeBruicker 4/21/2013 21:27",
+		"defaultHostName" : "PaulDeBruicker 4/21/2013 21:27",
+		"defaultHttpClient" : "PaulDeBruicker 4/21/2013 20:34"
+	}
+}

@@ -1,17 +1,16 @@
 {
-	"category" : "Elasticsearch-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "PaulDeBruicker 5/6/2013 12:59",
+	"super" : "ESObject",
+	"category" : "Elasticsearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"analyzers",
 		"tokenizers",
 		"filters",
-		"charFilters" ],
+		"charFilters"
+	],
 	"name" : "ESAnalysis",
-	"pools" : [
-		 ],
-	"super" : "ESObject",
-	"type" : "normal" }
+	"type" : "normal"
+}

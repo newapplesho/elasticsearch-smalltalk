@@ -1,10 +1,11 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"addToPath:" : "PaulDeBruicker 4/24/2013 10:05",
 		"defaultUrl" : "PaulDeBruicker 4/24/2013 10:01",
-		"host:" : "PaulDeBruicker 4/24/2013 10:01",
 		"port:" : "PaulDeBruicker 4/24/2013 10:02",
+		"addToPath:" : "PaulDeBruicker 4/24/2013 10:05",
 		"queryAt:put:" : "PaulDeBruicker 4/24/2013 10:02",
-		"url" : "PaulDeBruicker 4/24/2013 10:00" } }
+		"url" : "PaulDeBruicker 4/24/2013 10:00",
+		"host:" : "PaulDeBruicker 4/24/2013 10:01"
+	},
+	"class" : { }
+}

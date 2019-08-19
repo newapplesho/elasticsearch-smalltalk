@@ -1,8 +1,11 @@
 {
-	"class" : {
-		"forString:" : "ShoYoshida 1/29/2016 20:41" },
 	"instance" : {
 		"jsonWriteContentBeginOn:" : "ShoYoshida 1/29/2016 20:41",
-		"jsonWriteContentEndOn:" : "ShoYoshida 1/29/2016 20:41",
 		"queryKeyName" : "ShoYoshida 1/29/2016 20:41",
-		"queryType" : "ShoYoshida 1/29/2016 20:42" } }
+		"queryType" : "ShoYoshida 1/29/2016 20:42",
+		"jsonWriteContentEndOn:" : "ShoYoshida 1/29/2016 20:41"
+	},
+	"class" : {
+		"forString:" : "ShoYoshida 1/29/2016 20:41"
+	}
+}

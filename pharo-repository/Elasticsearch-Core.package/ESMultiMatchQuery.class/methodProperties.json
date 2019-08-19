@@ -1,10 +1,11 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"fields:" : "ShoYoshida 1/7/2016 22:41",
 		"jsonWriteContentValueOn:" : "ShoYoshida 1/9/2016 10:34",
+		"useDisMax:" : "PaulDeBruicker 5/10/2013 07:23",
 		"queryType" : "ShoYoshida 1/9/2016 10:19",
-		"tieBreaker:" : "PaulDeBruicker 5/10/2013 07:24",
 		"type:" : "MasashiUmezawa 10/26/2016 11:30",
-		"useDisMax:" : "PaulDeBruicker 5/10/2013 07:23" } }
+		"tieBreaker:" : "PaulDeBruicker 5/10/2013 07:24",
+		"fields:" : "ShoYoshida 1/7/2016 22:41"
+	},
+	"class" : { }
+}

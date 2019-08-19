@@ -1,18 +1,17 @@
 {
-	"category" : "Elasticsearch-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "ESObject",
+	"category" : "Elasticsearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"shards",
 		"replicas",
 		"analysis",
 		"mapping",
-		"type" ],
+		"type"
+	],
 	"name" : "ESIndex",
-	"pools" : [
-		 ],
-	"super" : "ESObject",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -5,7 +5,7 @@ addToIndex: anESIndex
 	response := self hasId
 		ifTrue: [ self httpClient put: self urlForIndexing data: self messageJsonContent ]
 		ifFalse: [ self httpClient post: self urlForIndexing data: self messageJsonContent ].
-	json := self parseJsonFromString: response.
+	json := self parseJsonFromString: response contents.
 	self
 		ifResponse: json
 		isNotErrorThenDo: [ :someJson | 

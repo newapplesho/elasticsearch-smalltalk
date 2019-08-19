@@ -1,6 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"filterType" : "ShoYoshida 6/15/2015 22:02",
-		"setFilter:" : "ShoYoshida 1/11/2016 15:22" } }
+		"setFilter:" : "ShoYoshida 1/11/2016 15:22",
+		"filterType" : "ShoYoshida 6/15/2015 22:02"
+	},
+	"class" : { }
+}
