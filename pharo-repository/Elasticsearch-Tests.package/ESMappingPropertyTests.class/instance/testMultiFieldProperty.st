@@ -18,7 +18,5 @@ testMultiFieldProperty
 	self
 		assert: multiField jsonContent
 		equals:
-			(Json
-				readFrom:
-					'{"type":"multi_field","fields":{"message":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"},"secondary":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}}}'
-						readStream)
+			(NeoJSONReader fromString:
+					'{"type":"multi_field","fields":{"message":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"},"secondary":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}}}')

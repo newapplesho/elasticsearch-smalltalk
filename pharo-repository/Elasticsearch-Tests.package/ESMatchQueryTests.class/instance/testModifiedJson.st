@@ -9,4 +9,4 @@ testModifiedJson
 		yourself.
 	self
 		assert: query asJsonString
-		equals: '{"match":{"message":{"fuzziness":0.5,"type":"phrase_prefix","query":"donkey"}}}'
+		equals: '{"match":{"message":{"query":"donkey","fuzziness":0.5,"type":"phrase_prefix"}}}'

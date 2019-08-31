@@ -1,3 +1,3 @@
 printing
 jsonWriteContentValueOn:  aStream
-	self filterList jsonWriteOn: aStream.
+	aStream writer nextPut: self filterList

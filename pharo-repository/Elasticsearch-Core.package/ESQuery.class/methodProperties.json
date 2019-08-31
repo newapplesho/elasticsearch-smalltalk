@@ -1,9 +1,11 @@
 {
 	"instance" : {
+		"prefixLength:" : "PaulDeBruicker 4/26/2013 08:42",
 		"jsonWriteContentOn:" : "ShoYoshida 1/8/2016 18:31",
 		"modifiers:" : "PaulDeBruicker 4/26/2013 06:42",
 		"field:" : "PaulDeBruicker 4/26/2013 06:42",
-		"jsonStringContents" : "MasashiUmezawa 10/25/2016 20:16",
+		"asJsonString" : "MasashiUmezawa 8/1/2019 10:14",
+		"jsonStringContents" : "MasashiUmezawa 8/1/2019 10:15",
 		"hasModifiers" : "ShoYoshida 1/11/2016 10:50",
 		"boost:" : "ShoYoshida 1/9/2016 09:58",
 		"query" : "ShoYoshida 1/8/2016 17:56",
@@ -11,17 +13,17 @@
 		"defaultField" : "ShoYoshida 1/8/2016 18:12",
 		"jsonWriteContentBeginOn:" : "ShoYoshida 1/9/2016 10:33",
 		"queryType" : "ShoYoshida 1/8/2016 18:26",
-		"boost" : "MasashiUmezawa 10/26/2016 11:18",
 		"jsonWriteContentEndOn:" : "ShoYoshida 1/9/2016 10:33",
+		"boost" : "MasashiUmezawa 10/26/2016 11:18",
 		"jsonWriteOn:" : "ShoYoshida 1/9/2016 11:06",
 		"resetModifiers" : "ShoYoshida 1/8/2016 17:57",
 		"query:" : "ShoYoshida 1/9/2016 10:27",
 		"queryKeyName" : "ShoYoshida 1/9/2016 10:13",
 		"field" : "ShoYoshida 1/8/2016 18:11",
-		"modifiers" : "ShoYoshida 1/8/2016 16:16",
-		"jsonWriteContentValueOn:" : "ShoYoshida 1/9/2016 10:13",
+		"modifiers" : "MasashiUmezawa 7/31/2019 19:31",
+		"jsonWriteContentValueOn:" : "MasashiUmezawa 8/1/2019 10:06",
 		"analyzer:" : "PaulDeBruicker 4/26/2013 08:36",
-		"prefixLength:" : "PaulDeBruicker 4/26/2013 08:42"
+		"neoJsonOn:" : "MasashiUmezawa 8/1/2019 09:52"
 	},
 	"class" : { }
 }

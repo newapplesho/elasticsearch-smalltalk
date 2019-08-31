@@ -9,5 +9,4 @@ testStringProperty
 	self
 		assert: prop jsonContent
 		equals:
-			(Json
-				readFrom: '{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}' readStream)
+			(NeoJSONReader fromString: '{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}')

@@ -1,4 +1,4 @@
-initialization
+actions
 deleteIndexNamed: aName
 	^ aName notEmpty
 		ifTrue: [ 

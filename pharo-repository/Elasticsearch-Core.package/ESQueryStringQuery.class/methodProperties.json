@@ -5,8 +5,10 @@
 		"asQueryString" : "PaulDeBruicker 4/23/2013 11:46",
 		"queryType" : "ShoYoshida 1/9/2016 10:56",
 		"queryString:" : "PaulDeBruicker 4/26/2013 06:41",
-		"jsonWriteContentBeginOn:" : "ShoYoshida 1/9/2016 10:56",
+		"jsonWriteContentBeginOn:" : "MasashiUmezawa 8/1/2019 10:11",
 		"defaultField" : "ShoYoshida 1/9/2016 10:58"
 	},
-	"class" : { }
+	"class" : {
+		"for:" : "MasashiUmezawa 8/1/2019 10:10"
+	}
 }

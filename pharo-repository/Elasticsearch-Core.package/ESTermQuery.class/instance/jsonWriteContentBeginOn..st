@@ -1,5 +1,5 @@
 printing
 jsonWriteContentBeginOn: aStream
 	aStream nextPut: ${.
-	self queryType jsonWriteOn: aStream.
+	aStream writer nextPut: self queryType.
 	aStream nextPut: $:.

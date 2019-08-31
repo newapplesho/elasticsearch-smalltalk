@@ -1,5 +1,5 @@
 printing
 jsonWriteContentBeginOn: aStream
 	aStream nextPut: ${.
-	self aggregationName jsonWriteOn: aStream.
+	aStream writer nextPut: self aggregationName.
 	aStream nextPut: $:.

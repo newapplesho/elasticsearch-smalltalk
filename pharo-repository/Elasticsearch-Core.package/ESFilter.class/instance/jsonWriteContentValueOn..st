@@ -1,5 +1,4 @@
 printing
 jsonWriteContentValueOn: aStream	
-	self modifiers jsonWriteOn: aStream.
-	
+	aStream writer nextPut: self modifiers
 	

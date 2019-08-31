@@ -1,4 +1,4 @@
 accessing
 initialize
 	super initialize.
-	modifiers := JsonObject new
+	modifiers := Dictionary new

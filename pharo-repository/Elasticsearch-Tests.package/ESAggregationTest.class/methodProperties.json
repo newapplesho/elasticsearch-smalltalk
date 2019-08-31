@@ -1,6 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"setUp" : "ShoYoshida 6/10/2015 16:42",
-		"testAggregationName" : "ShoYoshida 6/12/2015 14:00" } }
+		"testAggregationName" : "ShoYoshida 6/12/2015 14:00",
+		"setUp" : "ShoYoshida 6/10/2015 16:42"
+	},
+	"class" : { }
+}

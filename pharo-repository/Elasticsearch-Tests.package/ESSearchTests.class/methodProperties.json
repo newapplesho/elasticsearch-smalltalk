@@ -1,10 +1,11 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"createSearch" : "PaulDeBruicker 4/26/2013 08:51",
-		"setUp" : "PaulDeBruicker 4/24/2013 07:59",
-		"testQueryStringSearch" : "PaulDeBruicker 4/27/2013 09:04",
-		"testSearchUsingFuzzyLikeThisQuery" : "PaulDeBruicker 4/27/2013 09:05",
 		"testSearchUsingMatchQuery" : "PaulDeBruicker 4/27/2013 09:05",
-		"testSearchUsingMoreLikeThisQuery" : "PaulDeBruicker 4/27/2013 09:05" } }
+		"setUp" : "PaulDeBruicker 4/24/2013 07:59",
+		"testQueryStringSearch" : "MasashiUmezawa 8/1/2019 10:10",
+		"testSearchUsingMoreLikeThisQuery" : "PaulDeBruicker 4/27/2013 09:05",
+		"testSearchUsingFuzzyLikeThisQuery" : "PaulDeBruicker 4/27/2013 09:05",
+		"createSearch" : "PaulDeBruicker 4/26/2013 08:51"
+	},
+	"class" : { }
+}

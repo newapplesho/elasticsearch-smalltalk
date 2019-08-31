@@ -1,14 +1,13 @@
 {
-	"category" : "Elasticsearch-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"document" ],
-	"name" : "ESDocumentDependentTests",
-	"pools" : [
-		 ],
 	"super" : "ESIndexDependentTests",
-	"type" : "normal" }
+	"category" : "Elasticsearch-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"document"
+	],
+	"name" : "ESDocumentDependentTests",
+	"type" : "normal"
+}

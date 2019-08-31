@@ -1,4 +1,4 @@
-initialization
+actions
 getSettings
 	| settings |
 	settings := self parseJsonFromString: (self httpClient get: (self url addToPath: '_settings')).

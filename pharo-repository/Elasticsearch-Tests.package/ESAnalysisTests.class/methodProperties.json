@@ -1,6 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"testAnalyzerFilterTokenizerCharFilter" : "PaulDeBruicker 9/5/2013 09:28",
-		"testBasic" : "PaulDeBruicker 9/5/2013 09:28" } }
+		"testBasic" : "MasashiUmezawa 8/1/2019 09:35",
+		"testAnalyzerFilterTokenizerCharFilter" : "MasashiUmezawa 8/1/2019 09:35"
+	},
+	"class" : { }
+}

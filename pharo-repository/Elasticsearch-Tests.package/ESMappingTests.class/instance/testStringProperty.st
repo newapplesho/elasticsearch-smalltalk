@@ -16,7 +16,5 @@ testStringProperty
 	self
 		assert: mapping jsonContent
 		equals:
-			(Json
-				readFrom:
-					'{"tweet":{"properties":{"message":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}}}}'
-						readStream)
+			(NeoJSONReader fromString:
+					'{"tweet":{"properties":{"message":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}}}}')

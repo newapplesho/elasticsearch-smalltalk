@@ -29,4 +29,4 @@ testJsonQuery1
 	self
 		assert: result
 		equals:
-			'{"sort":[{"_score":{"order":"desc"}},{"title":{"order":"desc"}}],"query":{"bool":{"should":[{"match":{"_all":{"type":"phrase","query":"Tuna"}}},{"match":{"_all":"Tuna"}}],"minimum_should_match":1}}}'
+			'{"sort":[{"_score":{"order":"desc"}},{"title":{"order":"desc"}}],"query":{"bool":{"should":[{"match":{"_all":{"query":"Tuna","type":"phrase"}}},{"match":{"_all":"Tuna"}}],"minimum_should_match":1}}}'

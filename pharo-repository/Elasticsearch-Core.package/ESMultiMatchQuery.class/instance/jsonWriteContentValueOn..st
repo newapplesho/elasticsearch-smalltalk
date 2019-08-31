@@ -1,5 +1,5 @@
 printing
 jsonWriteContentValueOn: aStream
 	self hasModifiers
-		ifTrue: [ self modifiers jsonWriteOn: aStream ]
-		ifFalse: [ (self modifiers at: self queryKeyName ifAbsent: [ '' ]) jsonWriteOn: aStream ]
+		ifTrue: [ aStream writer nextPut: self modifiers]
+		ifFalse: [aStream writer nextPut:  (self modifiers at: self queryKeyName ifAbsent: [ '' ])]

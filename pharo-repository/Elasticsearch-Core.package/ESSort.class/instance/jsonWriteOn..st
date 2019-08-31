@@ -1,3 +1,3 @@
 printing
 jsonWriteOn: aStream
-	self criteria jsonWriteOn: aStream
+	aStream writer nextPut: self criteria
