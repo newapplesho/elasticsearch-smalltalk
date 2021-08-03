@@ -4,13 +4,9 @@ baseline: spec
 	spec
 		for: #common
 		do: [ 
-			spec
-				project: 'ZincHTTPComponents'
-					with: [ 
-							spec
-								className: 'ConfigurationOfZincHTTPComponents';
-								versionString: #stable;
-								repository: 'http://mc.stfx.eu/ZincHTTPComponents' ].
+			spec baseline: 'ZincHTTPComponents' with: [
+				spec repository: 'github://svenvc/zinc:7f3502b082fbcd29e6f02f1aad2e46d00406ec3e/repository';
+					loads: #('Core' 'SSO-OAuth1' 'SSO-OAuth2' 'WebSocket' 'Server-Sent-Events') ].
 							
 			spec baseline: 'NeoJSON' with: [ spec repository: 'github://svenvc/NeoJSON/repository' ].
 							
